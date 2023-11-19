@@ -1,0 +1,3692 @@
+[
+    {
+        "speaker": "PM",
+        "text": "Okay ,",
+        "index": 0
+    },
+    {
+        "speaker": "PM",
+        "text": "welcome to the second meeting of this uh design group .",
+        "index": 1
+    },
+    {
+        "speaker": "PM",
+        "text": "Um <vocalsound> I'll briefly go through the uh notes of the of the last meeting",
+        "index": 2
+    },
+    {
+        "speaker": "PM",
+        "text": "uh just done in in note form",
+        "index": 3
+    },
+    {
+        "speaker": "PM",
+        "text": "and I haven't attributed anything to individuals ,",
+        "index": 4
+    },
+    {
+        "speaker": "PM",
+        "text": "because we're working strictly as a team here",
+        "index": 5
+    },
+    {
+        "speaker": "PM",
+        "text": "and uh n nobody's working equally ,",
+        "index": 6
+    },
+    {
+        "speaker": "UI",
+        "text": "Sorry .",
+        "index": 7
+    },
+    {
+        "speaker": "PM",
+        "text": "so uh . Um",
+        "index": 8
+    },
+    {
+        "speaker": "PM",
+        "text": "we we s we saw that the the problems with existing remote controls were the uh b a boring shape and boring colour .",
+        "index": 9
+    },
+    {
+        "speaker": "PM",
+        "text": "Um and and we s we saw that the um what we needed to do was to to make sure the device um controls several items ,",
+        "index": 10
+    },
+    {
+        "speaker": "PM",
+        "text": "that switching was easy ,",
+        "index": 11
+    },
+    {
+        "speaker": "PM",
+        "text": "that you shouldn't need to point the thing at uh anything in particular ,",
+        "index": 12
+    },
+    {
+        "speaker": "PM",
+        "text": "um that it need to be contoured to make it interesting ,",
+        "index": 13
+    },
+    {
+        "speaker": "PM",
+        "text": "that the keys might be concave ,",
+        "index": 14
+    },
+    {
+        "speaker": "PM",
+        "text": "simply because that hasn't been done before that we know of .",
+        "index": 15
+    },
+    {
+        "speaker": "PM",
+        "text": "Um should have interchangeable fascias",
+        "index": 16
+    },
+    {
+        "speaker": "PM",
+        "text": "so people can personalise it ,",
+        "index": 17
+    },
+    {
+        "speaker": "PM",
+        "text": "um illuminated",
+        "index": 18
+    },
+    {
+        "speaker": "PM",
+        "text": "so that people can see it in dark rooms .",
+        "index": 19
+    },
+    {
+        "speaker": "PM",
+        "text": "Um and that people might want it as as <disfmarker> in addition to their existing remote controls .",
+        "index": 20
+    },
+    {
+        "speaker": "PM",
+        "text": "Um <vocalsound> and that it sh it should just always work , whenever you uh um mm uh use it .",
+        "index": 21
+    },
+    {
+        "speaker": "PM",
+        "text": "And that it shouldn't be too small ,",
+        "index": 22
+    },
+    {
+        "speaker": "PM",
+        "text": "mm that it it gets lost . Um .",
+        "index": 23
+    },
+    {
+        "speaker": "PM",
+        "text": "<gap> Now uh uh",
+        "index": 24
+    },
+    {
+        "speaker": "PM",
+        "text": "I'll shortly ask for for three three presentations .",
+        "index": 25
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh before I do that , however , I will go through some new project requirements",
+        "index": 26
+    },
+    {
+        "speaker": "PM",
+        "text": "that um <disfmarker> the the management have placed on us",
+        "index": 27
+    },
+    {
+        "speaker": "PM",
+        "text": "and uh will be challenging in terms of what we discussed at the first meeting .",
+        "index": 28
+    },
+    {
+        "speaker": "PM",
+        "text": "Um the uh the ma the management has had it's own thoughts on this",
+        "index": 29
+    },
+    {
+        "speaker": "PM",
+        "text": "and uh the they don't necessarily agree with with what we uh we thought .",
+        "index": 30
+    },
+    {
+        "speaker": "PM",
+        "text": "Um and and then we'll <disfmarker>",
+        "index": 31
+    },
+    {
+        "speaker": "PM",
+        "text": "as a result of that we will then talk through the the functions that we see the the device um actually b carrying out ,",
+        "index": 32
+    },
+    {
+        "speaker": "PM",
+        "text": "and we have uh forty minutes to do this in",
+        "index": 33
+    },
+    {
+        "speaker": "PM",
+        "text": "and I uh <disfmarker>",
+        "index": 34
+    },
+    {
+        "speaker": "PM",
+        "text": "Anyway . Okay . Now ,",
+        "index": 35
+    },
+    {
+        "speaker": "PM",
+        "text": "the n the new requirements are um the the management team see that um teletext is no longer of any importance given the uh the rise of the internet .",
+        "index": 36
+    },
+    {
+        "speaker": "PM",
+        "text": "Um and and they want it only to cover televisions .",
+        "index": 37
+    },
+    {
+        "speaker": "PM",
+        "text": "Um now ,",
+        "index": 38
+    },
+    {
+        "speaker": "PM",
+        "text": "what is not q quite clear from their directive is",
+        "index": 39
+    },
+    {
+        "speaker": "PM",
+        "text": "whether they mean th they don't want it to cover teletext",
+        "index": 40
+    },
+    {
+        "speaker": "PM",
+        "text": "or whether they don't want it to cover , you know , videos , D_V_D_s , um satellite boxes ,",
+        "index": 41
+    },
+    {
+        "speaker": "PM",
+        "text": "which uh <disfmarker> I mean we saw as being fundamental to the uh to the exercise .",
+        "index": 42
+    },
+    {
+        "speaker": "PM",
+        "text": "The um the actual wording of the directive is that it should cover television only .",
+        "index": 43
+    },
+    {
+        "speaker": "PM",
+        "text": "Um and on that basis um I I think we we need to bear that in mind ,",
+        "index": 44
+    },
+    {
+        "speaker": "PM",
+        "text": "um but possibly uh keep at the backs of our minds that the reality that people even when they uh no longer <disfmarker> they don't look at teletext anymore , they certainly do look at other things .",
+        "index": 45
+    },
+    {
+        "speaker": "PM",
+        "text": "Um <vocalsound> the device has to incorporate the company logo and colours .",
+        "index": 46
+    },
+    {
+        "speaker": "PM",
+        "text": "Um the the logo uh being at b the bottom of the screen there , the the the two R_s in grey against uh a yellow background .",
+        "index": 47
+    },
+    {
+        "speaker": "PM",
+        "text": "Um now",
+        "index": 48
+    },
+    {
+        "speaker": "PM",
+        "text": "this doesn't <vocalsound> necessarily mean that we have to give up some of our ideas about making it attractive to the t to the market .",
+        "index": 49
+    },
+    {
+        "speaker": "PM",
+        "text": "But uh do do introduce some some constraints as to how we might do that .",
+        "index": 50
+    },
+    {
+        "speaker": "PM",
+        "text": "Um it also has to be simple ,",
+        "index": 51
+    },
+    {
+        "speaker": "PM",
+        "text": "which to some extent goes along w with the first one ,",
+        "index": 52
+    },
+    {
+        "speaker": "PM",
+        "text": "and that <disfmarker> we've already said that it must be simple",
+        "index": 53
+    },
+    {
+        "speaker": "PM",
+        "text": "'cause that's what people want anyway .",
+        "index": 54
+    },
+    {
+        "speaker": "PM",
+        "text": "Um but they also want it to be simple to get it to the market quickly ,",
+        "index": 55
+    },
+    {
+        "speaker": "PM",
+        "text": "which um mm <vocalsound> uh is is is their choice ,",
+        "index": 56
+    },
+    {
+        "speaker": "PM",
+        "text": "but uh um we we need to talk that through .",
+        "index": 57
+    },
+    {
+        "speaker": "PM",
+        "text": "Um okay , so uh",
+        "index": 58
+    },
+    {
+        "speaker": "PM",
+        "text": "after the meeting it'll be summarised",
+        "index": 59
+    },
+    {
+        "speaker": "PM",
+        "text": "and uh",
+        "index": 60
+    },
+    {
+        "speaker": "PM",
+        "text": "um notes sent out and uh etcetera .",
+        "index": 61
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay , so <vocalsound>",
+        "index": 62
+    },
+    {
+        "speaker": "PM",
+        "text": "we'll first of all mm have individual reports from everybody .",
+        "index": 63
+    },
+    {
+        "speaker": "PM",
+        "text": "Um again I <vocalsound> <disfmarker>",
+        "index": 64
+    },
+    {
+        "speaker": "PM",
+        "text": "there is no order of precedence here",
+        "index": 65
+    },
+    {
+        "speaker": "PM",
+        "text": "um so I I I'll leave it up to you to <disfmarker> who who who thinks they would like to go go first ?",
+        "index": 66
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh I don't mind . <gap>",
+        "index": 67
+    },
+    {
+        "speaker": "PM",
+        "text": "P",
+        "index": 68
+    },
+    {
+        "speaker": "PM",
+        "text": "fine .",
+        "index": 69
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh can I steal the cable ?",
+        "index": 70
+    },
+    {
+        "speaker": "PM",
+        "text": "Oh sorry ,",
+        "index": 71
+    },
+    {
+        "speaker": "PM",
+        "text": "you can indeed .",
+        "index": 72
+    },
+    {
+        "speaker": "ME",
+        "text": "Cheers .",
+        "index": 73
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> <vocalsound> <vocalsound>",
+        "index": 74
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> I got a <disfmarker>",
+        "index": 75
+    },
+    {
+        "speaker": "ME",
+        "text": "how do I start there ?",
+        "index": 76
+    },
+    {
+        "speaker": "PM",
+        "text": "Oh ,",
+        "index": 77
+    },
+    {
+        "speaker": "PM",
+        "text": "if you click on the um uh the one that that looks like a projection screen ,",
+        "index": 78
+    },
+    {
+        "speaker": "PM",
+        "text": "no",
+        "index": 79
+    },
+    {
+        "speaker": "PM",
+        "text": "the one to the right of that .",
+        "index": 80
+    },
+    {
+        "speaker": "ME",
+        "text": "That one .",
+        "index": 81
+    },
+    {
+        "speaker": "PM",
+        "text": "That one .",
+        "index": 82
+    },
+    {
+        "speaker": "ME",
+        "text": "Cool .",
+        "index": 83
+    },
+    {
+        "speaker": "ME",
+        "text": "Well",
+        "index": 84
+    },
+    {
+        "speaker": "ME",
+        "text": "these are functionality requirements from the <disfmarker> our our guys down in the the research lab .",
+        "index": 85
+    },
+    {
+        "speaker": "ME",
+        "text": "Took hundred people",
+        "index": 86
+    },
+    {
+        "speaker": "ME",
+        "text": "and covered all the aspects of what um is needed by people and what they want to see .",
+        "index": 87
+    },
+    {
+        "speaker": "ME",
+        "text": "Um <vocalsound> everything kinda from functionality and how individual functions are <disfmarker> how mu how how often they're used and how much their necessary and stuff . And general opinions about current current remotes .",
+        "index": 88
+    },
+    {
+        "speaker": "ME",
+        "text": "See that , as we kinda noticed , seventy five percent of people find their remote controls ugly .",
+        "index": 89
+    },
+    {
+        "speaker": "ME",
+        "text": "So some kind of a new style should be incorporated that's less ugly <vocalsound> .",
+        "index": 90
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh along with um looking less ugly , if it looks better , eighty percent of people said they'd spend more money on it .",
+        "index": 91
+    },
+    {
+        "speaker": "ME",
+        "text": "Which is a a plus for us ,",
+        "index": 92
+    },
+    {
+        "speaker": "ME",
+        "text": "if we can make it look better , it'd be uh more cost effective and we can put the price up .",
+        "index": 93
+    },
+    {
+        "speaker": "ME",
+        "text": "Current remote controls do not match the operating behaviour of the user .",
+        "index": 94
+    },
+    {
+        "speaker": "ME",
+        "text": "I can empl",
+        "index": 95
+    },
+    {
+        "speaker": "ME",
+        "text": "I kinda take that to mean as um <vocalsound> they they don't uh <disfmarker> they , yeah , they only use <disfmarker> they only work for the television",
+        "index": 96
+    },
+    {
+        "speaker": "ME",
+        "text": "or",
+        "index": 97
+    },
+    {
+        "speaker": "ME",
+        "text": "yeah like",
+        "index": 98
+    },
+    {
+        "speaker": "ME",
+        "text": "as in in my flat I've got six remote controls for a stereo system , a digital box , a D_V_D_ player , a video player and T_V_ .",
+        "index": 99
+    },
+    {
+        "speaker": "ME",
+        "text": "If it was",
+        "index": 100
+    },
+    {
+        "speaker": "ME",
+        "text": "uh <disfmarker> I mean th my behaviour is to use multiple things at the same time",
+        "index": 101
+    },
+    {
+        "speaker": "ME",
+        "text": "and multiple remotes aren't really matched well to my behaviour . <vocalsound>",
+        "index": 102
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh again , seventy five percent is <disfmarker> seventy five percent of users say they zap a lot .",
+        "index": 103
+    },
+    {
+        "speaker": "ME",
+        "text": "I took to mean that they just <disfmarker> they use it a lot ,",
+        "index": 104
+    },
+    {
+        "speaker": "ME",
+        "text": "they use it regularly rather than standing up and manually change channels or volume <gap> .",
+        "index": 105
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> And uh yeah , uh",
+        "index": 106
+    },
+    {
+        "speaker": "ME",
+        "text": "I think the big issue is",
+        "index": 107
+    },
+    {
+        "speaker": "ME",
+        "text": "fifty percent users only use ten percent of the buttons ,",
+        "index": 108
+    },
+    {
+        "speaker": "ME",
+        "text": "'cause uh wh if we got a remote that like <disfmarker>",
+        "index": 109
+    },
+    {
+        "speaker": "ME",
+        "text": "well",
+        "index": 110
+    },
+    {
+        "speaker": "ME",
+        "text": "we'll have some buttons taken off by the lack of teletext ,",
+        "index": 111
+    },
+    {
+        "speaker": "ME",
+        "text": "but uh oh and we're going to see uh on the <disfmarker> uh that some of the functions like audio settings aren't h hardly ever used",
+        "index": 112
+    },
+    {
+        "speaker": "ME",
+        "text": "and used very <disfmarker>",
+        "index": 113
+    },
+    {
+        "speaker": "ME",
+        "text": "aren't considered relevant by the user .",
+        "index": 114
+    },
+    {
+        "speaker": "ME",
+        "text": "So I think maybe fewer buttons ,",
+        "index": 115
+    },
+    {
+        "speaker": "ME",
+        "text": "which also make the design look sleeker ,",
+        "index": 116
+    },
+    {
+        "speaker": "ME",
+        "text": "I dunno .",
+        "index": 117
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh um yeah and uh",
+        "index": 118
+    },
+    {
+        "speaker": "ME",
+        "text": "frustrations of like people losing remote control .",
+        "index": 119
+    },
+    {
+        "speaker": "ME",
+        "text": "I dunno",
+        "index": 120
+    },
+    {
+        "speaker": "ME",
+        "text": "maybe some kind of system of you press a button on the T_V_",
+        "index": 121
+    },
+    {
+        "speaker": "ME",
+        "text": "or maybe that's b",
+        "index": 122
+    },
+    {
+        "speaker": "ME",
+        "text": "it would have to incorporate <gap> , but like some kind of system where you can f use something else to find the remote control .",
+        "index": 123
+    },
+    {
+        "speaker": "ME",
+        "text": "Maybe like it'll beep or something .",
+        "index": 124
+    },
+    {
+        "speaker": "ME",
+        "text": "And um , yep ,",
+        "index": 125
+    },
+    {
+        "speaker": "ME",
+        "text": "the uh time taken to learn new remote controls is <disfmarker>",
+        "index": 126
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh don't want to make it too complicated , easy to use for uh new <disfmarker> like first time users and stuff .",
+        "index": 127
+    },
+    {
+        "speaker": "ME",
+        "text": "And uh repetitive strain injury ,",
+        "index": 128
+    },
+    {
+        "speaker": "ME",
+        "text": "I suppose we should make it more comfortable",
+        "index": 129
+    },
+    {
+        "speaker": "ME",
+        "text": "and make ma possibly even use <disfmarker> have to make it , yeah , fewer buttons ,",
+        "index": 130
+    },
+    {
+        "speaker": "ME",
+        "text": "like I was saying about the whole mice <disfmarker> the mouse idea of it feels more comfortable .",
+        "index": 131
+    },
+    {
+        "speaker": "ME",
+        "text": "Maybe don't even have to hold it as such .",
+        "index": 132
+    },
+    {
+        "speaker": "PM",
+        "text": "Gosh ,",
+        "index": 133
+    },
+    {
+        "speaker": "PM",
+        "text": "must be some telly addicts out there if they get R_S_I_ from their television remote , is all I can say .",
+        "index": 134
+    },
+    {
+        "speaker": "ME",
+        "text": "But uh yeah .",
+        "index": 135
+    },
+    {
+        "speaker": "ME",
+        "text": "It also asked um if we would <disfmarker> if people would pay more for speech recognition",
+        "index": 136
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> <gap>",
+        "index": 137
+    },
+    {
+        "speaker": "ME",
+        "text": "and younger people say they would .",
+        "index": 138
+    },
+    {
+        "speaker": "ME",
+        "text": "And uh there was another section on our <disfmarker> on the report for uh L_C_D_ displays ,",
+        "index": 139
+    },
+    {
+        "speaker": "ME",
+        "text": "but the data wasn't there ,",
+        "index": 140
+    },
+    {
+        "speaker": "ME",
+        "text": "so . I don't actually know what the results for that were ,",
+        "index": 141
+    },
+    {
+        "speaker": "PM",
+        "text": "Mm . Right .",
+        "index": 142
+    },
+    {
+        "speaker": "ME",
+        "text": "so . <vocalsound>",
+        "index": 143
+    },
+    {
+        "speaker": "ME",
+        "text": "May be incrementally emitting ,",
+        "index": 144
+    },
+    {
+        "speaker": "ME",
+        "text": "but yeah .",
+        "index": 145
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah ,",
+        "index": 146
+    },
+    {
+        "speaker": "PM",
+        "text": "I must say that um the uh <disfmarker> I c can't remember what <vocalsound> um f you know phone service I was using the other day ,",
+        "index": 147
+    },
+    {
+        "speaker": "PM",
+        "text": "but that had sorta speech recognition",
+        "index": 148
+    },
+    {
+        "speaker": "PM",
+        "text": "which worked uh remarkably well ,",
+        "index": 149
+    },
+    {
+        "speaker": "PM",
+        "text": "so that is indeed a uh um",
+        "index": 150
+    },
+    {
+        "speaker": "ME",
+        "text": "And uh <vocalsound> it would cut out the R_S_I_ as well if you <disfmarker> <vocalsound>",
+        "index": 151
+    },
+    {
+        "speaker": "PM",
+        "text": "a thought",
+        "index": 152
+    },
+    {
+        "speaker": "PM",
+        "text": "and it it cuts out uh <disfmarker> I was was gonna say , you can't get a lot of R_S_I_ ,",
+        "index": 153
+    },
+    {
+        "speaker": "PM",
+        "text": "j just get jaw ache .",
+        "index": 154
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay ,",
+        "index": 155
+    },
+    {
+        "speaker": "PM",
+        "text": "sorry .",
+        "index": 156
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah , um <disfmarker> oh yeah , so",
+        "index": 157
+    },
+    {
+        "speaker": "ME",
+        "text": "possibly the speech recognition is possibly something could add into the design .",
+        "index": 158
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh ,",
+        "index": 159
+    },
+    {
+        "speaker": "ME",
+        "text": "I've got some other things",
+        "index": 160
+    },
+    {
+        "speaker": "ME",
+        "text": "I couldn't fit onto this presentation .",
+        "index": 161
+    },
+    {
+        "speaker": "ME",
+        "text": "Um . You see this okay ?",
+        "index": 162
+    },
+    {
+        "speaker": "ME",
+        "text": "Almost <disfmarker>",
+        "index": 163
+    },
+    {
+        "speaker": "ME",
+        "text": "no ?",
+        "index": 164
+    },
+    {
+        "speaker": "ME",
+        "text": "It's <disfmarker>",
+        "index": 165
+    },
+    {
+        "speaker": "ME",
+        "text": "sorry",
+        "index": 166
+    },
+    {
+        "speaker": "ME",
+        "text": "it's a bit <gap> .",
+        "index": 167
+    },
+    {
+        "speaker": "ME",
+        "text": "I'll read out to you .",
+        "index": 168
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh functionality , uh like people's opinions on functionality , the relevance to the remote and how often they're used .",
+        "index": 169
+    },
+    {
+        "speaker": "ME",
+        "text": "like the power . Using the using the d swi the power switch to switch on T_V_ is a high relevance of nine ,",
+        "index": 170
+    },
+    {
+        "speaker": "ME",
+        "text": "but it's not frequently used .",
+        "index": 171
+    },
+    {
+        "speaker": "ME",
+        "text": "You see what I mean ?",
+        "index": 172
+    },
+    {
+        "speaker": "ME",
+        "text": "Whereas channel selection , which is very high relevance",
+        "index": 173
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah . <vocalsound>",
+        "index": 174
+    },
+    {
+        "speaker": "ME",
+        "text": "is used the most .",
+        "index": 175
+    },
+    {
+        "speaker": "ME",
+        "text": "So",
+        "index": 176
+    },
+    {
+        "speaker": "ME",
+        "text": "m we can maybe even start to cut down on <disfmarker> or",
+        "index": 177
+    },
+    {
+        "speaker": "ME",
+        "text": "I was possibly even thinking of a design that maybe some of the buttons are hidden from everyday use .",
+        "index": 178
+    },
+    {
+        "speaker": "ME",
+        "text": "Maybe like uh a folding ledge or something . So that we can maybe go into the channel settings and the audio settings ,",
+        "index": 179
+    },
+    {
+        "speaker": "ME",
+        "text": "which are low relevance",
+        "index": 180
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Mm-hmm . I mean <disfmarker>",
+        "index": 181
+    },
+    {
+        "speaker": "ME",
+        "text": "and rarely used .",
+        "index": 182
+    },
+    {
+        "speaker": "ME",
+        "text": "And keep the v volume selection and channel selection very easily <disfmarker>",
+        "index": 183
+    },
+    {
+        "speaker": "UI",
+        "text": "It could be <disfmarker>",
+        "index": 184
+    },
+    {
+        "speaker": "UI",
+        "text": "oh",
+        "index": 185
+    },
+    {
+        "speaker": "UI",
+        "text": "uh I was just gonna say uh maybe like the flip phones that they use ?",
+        "index": 186
+    },
+    {
+        "speaker": "UI",
+        "text": "Have you seen the new mo mobile phones",
+        "index": 187
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Yeah .",
+        "index": 188
+    },
+    {
+        "speaker": "UI",
+        "text": "that flip out",
+        "index": 189
+    },
+    {
+        "speaker": "UI",
+        "text": "and they have the like texting , and then the numbers on one side ,",
+        "index": 190
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh yeah .",
+        "index": 191
+    },
+    {
+        "speaker": "UI",
+        "text": "so",
+        "index": 192
+    },
+    {
+        "speaker": "UI",
+        "text": "you could have the most <vocalsound> used buttons on top",
+        "index": 193
+    },
+    {
+        "speaker": "UI",
+        "text": "and flip it out or something .",
+        "index": 194
+    },
+    {
+        "speaker": "PM",
+        "text": "Hmm , hmm .",
+        "index": 195
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah ,",
+        "index": 196
+    },
+    {
+        "speaker": "ME",
+        "text": "like the one that like slides back",
+        "index": 197
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh . Should we actually bite the bullet here ?",
+        "index": 198
+    },
+    {
+        "speaker": "ME",
+        "text": "and the buttons are concealed underneath .",
+        "index": 199
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah .",
+        "index": 200
+    },
+    {
+        "speaker": "PM",
+        "text": "If people really don't use those buttons to any extent at all um <vocalsound> remove them altogether .",
+        "index": 201
+    },
+    {
+        "speaker": "ME",
+        "text": "Just remove them completely ?",
+        "index": 202
+    },
+    {
+        "speaker": "UI",
+        "text": "That might be the <disfmarker>",
+        "index": 203
+    },
+    {
+        "speaker": "PM",
+        "text": "We we could actually have we could actually have a remote control with um <disfmarker>",
+        "index": 204
+    },
+    {
+        "speaker": "PM",
+        "text": "I wonder whether we could get the remote control with no buttons at all if we went for voice recognition ,",
+        "index": 205
+    },
+    {
+        "speaker": "PM",
+        "text": "given that um the <disfmarker>",
+        "index": 206
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Um now",
+        "index": 207
+    },
+    {
+        "speaker": "PM",
+        "text": "the the age structure we were looking at <disfmarker>",
+        "index": 208
+    },
+    {
+        "speaker": "PM",
+        "text": "um I mean w we had usage by age structure ,",
+        "index": 209
+    },
+    {
+        "speaker": "PM",
+        "text": "what we didn't have was what proportion of people using remotes were in those particular age groups .",
+        "index": 210
+    },
+    {
+        "speaker": "PM",
+        "text": "Now",
+        "index": 211
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh yeah .",
+        "index": 212
+    },
+    {
+        "speaker": "PM",
+        "text": "do we know whether they <disfmarker>",
+        "index": 213
+    },
+    {
+        "speaker": "PM",
+        "text": "Forty <disfmarker> no sorry <disfmarker> for forty five to fifty five age group , uh to put myself right in the middle of it , um u use remote controls to a great extent .",
+        "index": 214
+    },
+    {
+        "speaker": "PM",
+        "text": "Yes we <disfmarker>",
+        "index": 215
+    },
+    {
+        "speaker": "ME",
+        "text": "Um no",
+        "index": 216
+    },
+    {
+        "speaker": "ME",
+        "text": "this is for <disfmarker> pay more for speech recognition .",
+        "index": 217
+    },
+    {
+        "speaker": "PM",
+        "text": "That would 've speech recogn right .",
+        "index": 218
+    },
+    {
+        "speaker": "PM",
+        "text": "So ,",
+        "index": 219
+    },
+    {
+        "speaker": "PM",
+        "text": "we're looking at <disfmarker>",
+        "index": 220
+    },
+    {
+        "speaker": "PM",
+        "text": "um well",
+        "index": 221
+    },
+    {
+        "speaker": "PM",
+        "text": "again , we don't know the relative proportion <disfmarker> the relative numbers in the age groups .",
+        "index": 222
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah , that's true .",
+        "index": 223
+    },
+    {
+        "speaker": "PM",
+        "text": "If we wanted something different , truly different , then the buttonless remote control w would be it .",
+        "index": 224
+    },
+    {
+        "speaker": "ID",
+        "text": "P",
+        "index": 225
+    },
+    {
+        "speaker": "ID",
+        "text": "Well",
+        "index": 226
+    },
+    {
+        "speaker": "ID",
+        "text": "the only problem I can think of with that is if you've got a lot of people that don't wanna be bothered learning how to use new rem remote controls .",
+        "index": 227
+    },
+    {
+        "speaker": "ID",
+        "text": "If you just kind of take away everything that they're used to knowing , that's gonna be quite a change .",
+        "index": 228
+    },
+    {
+        "speaker": "PM",
+        "text": "But if you just lift it up and say , channel one or B_B_C_ <disfmarker>",
+        "index": 229
+    },
+    {
+        "speaker": "ID",
+        "text": "It might <disfmarker>",
+        "index": 230
+    },
+    {
+        "speaker": "ME",
+        "text": "Or even <disfmarker> I mean you could even just have it left on .",
+        "index": 231
+    },
+    {
+        "speaker": "ME",
+        "text": "You could just put it down once on top your T_V_",
+        "index": 232
+    },
+    {
+        "speaker": "UI",
+        "text": "Maybe i",
+        "index": 233
+    },
+    {
+        "speaker": "ME",
+        "text": "and never have to <disfmarker>",
+        "index": 234
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah ,",
+        "index": 235
+    },
+    {
+        "speaker": "UI",
+        "text": "have a big kind of like the satellite box or the cable box",
+        "index": 236
+    },
+    {
+        "speaker": "UI",
+        "text": "and have it just go on the T_V_",
+        "index": 237
+    },
+    {
+        "speaker": "UI",
+        "text": "and then it doesn't matter where in the room you are ,",
+        "index": 238
+    },
+    {
+        "speaker": "UI",
+        "text": "you won't lose it .",
+        "index": 239
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 240
+    },
+    {
+        "speaker": "PM",
+        "text": "It c",
+        "index": 241
+    },
+    {
+        "speaker": "PM",
+        "text": "well",
+        "index": 242
+    },
+    {
+        "speaker": "PM",
+        "text": "it <disfmarker>",
+        "index": 243
+    },
+    {
+        "speaker": "PM",
+        "text": "I can I can see technical problems with that in terms of the , you know , the sound from the television ,",
+        "index": 244
+    },
+    {
+        "speaker": "UI",
+        "text": "No .",
+        "index": 245
+    },
+    {
+        "speaker": "PM",
+        "text": "because if somebody actually on the television says uh uh , you know , I_T_V_ and you're watching B_B_C_ then then it might um change itself ,",
+        "index": 246
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> B_B_C_ one . <vocalsound>",
+        "index": 247
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah . <vocalsound>",
+        "index": 248
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> Oh . <vocalsound>",
+        "index": 249
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah .",
+        "index": 250
+    },
+    {
+        "speaker": "PM",
+        "text": "so it probably needs to be um <disfmarker> possibly actually need a button on it",
+        "index": 251
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah , that's true .",
+        "index": 252
+    },
+    {
+        "speaker": "PM",
+        "text": "just to activate it .",
+        "index": 253
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh yeah .",
+        "index": 254
+    },
+    {
+        "speaker": "PM",
+        "text": "Or or something just to identify that you've lifted it up and it's use .",
+        "index": 255
+    },
+    {
+        "speaker": "PM",
+        "text": "And and then just say , oh I don't know , a thought and and then <disfmarker>",
+        "index": 256
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah .",
+        "index": 257
+    },
+    {
+        "speaker": "PM",
+        "text": "uh I mean that that would certainly be uh truly different .",
+        "index": 258
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Um 'cause uh you know audio settings , nought point eight percent .",
+        "index": 259
+    },
+    {
+        "speaker": "PM",
+        "text": "I mean if they weren't there ,",
+        "index": 260
+    },
+    {
+        "speaker": "ME",
+        "text": "Mm-mm .",
+        "index": 261
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> would people miss them ?",
+        "index": 262
+    },
+    {
+        "speaker": "ID",
+        "text": "But look at the importance of them . The volume settings .",
+        "index": 263
+    },
+    {
+        "speaker": "ME",
+        "text": "Relevance of two out of ten ,",
+        "index": 264
+    },
+    {
+        "speaker": "ME",
+        "text": "yeah .",
+        "index": 265
+    },
+    {
+        "speaker": "PM",
+        "text": "Vol volume ,",
+        "index": 266
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah .",
+        "index": 267
+    },
+    {
+        "speaker": "PM",
+        "text": "yes um",
+        "index": 268
+    },
+    {
+        "speaker": "ID",
+        "text": "They're not used often",
+        "index": 269
+    },
+    {
+        "speaker": "PM",
+        "text": "th <vocalsound>",
+        "index": 270
+    },
+    {
+        "speaker": "ID",
+        "text": "but they are quite important when they're used .",
+        "index": 271
+    },
+    {
+        "speaker": "PM",
+        "text": "w we need to s identify things that <vocalsound> people actually need",
+        "index": 272
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah .",
+        "index": 273
+    },
+    {
+        "speaker": "PM",
+        "text": "and and it's a function of frequency and relevance .",
+        "index": 274
+    },
+    {
+        "speaker": "PM",
+        "text": "And um I would say ignoring ig ignoring power for the moment ,",
+        "index": 275
+    },
+    {
+        "speaker": "PM",
+        "text": "um the channel and volume",
+        "index": 276
+    },
+    {
+        "speaker": "PM",
+        "text": "and th w w given given that we've been told to ignore teletext .",
+        "index": 277
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 278
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh channel and volume are the only ones that",
+        "index": 279
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> uh would appear to be essential .",
+        "index": 280
+    },
+    {
+        "speaker": "ME",
+        "text": "Stand out .",
+        "index": 281
+    },
+    {
+        "speaker": "PM",
+        "text": "Um . So",
+        "index": 282
+    },
+    {
+        "speaker": "PM",
+        "text": "<disfmarker> if we can design something that that looks interesting ,",
+        "index": 283
+    },
+    {
+        "speaker": "PM",
+        "text": "know ,",
+        "index": 284
+    },
+    {
+        "speaker": "PM",
+        "text": "or looks different ,",
+        "index": 285
+    },
+    {
+        "speaker": "PM",
+        "text": "um incorporates the the logo and and the colours",
+        "index": 286
+    },
+    {
+        "speaker": "PM",
+        "text": "and um we can still have our interchangeable fascias even if it's <gap> the yellow and grey , um",
+        "index": 287
+    },
+    {
+        "speaker": "PM",
+        "text": "and uh I dunno ,",
+        "index": 288
+    },
+    {
+        "speaker": "PM",
+        "text": "buttons or or buttons as an option .",
+        "index": 289
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh I just had a thought actually ,",
+        "index": 290
+    },
+    {
+        "speaker": "ME",
+        "text": "sorry to interrupt .",
+        "index": 291
+    },
+    {
+        "speaker": "PM",
+        "text": "Do , please .",
+        "index": 292
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh you were saying about um it could <disfmarker> technical problems of like uh someone on the television saying a channel number and it changed <disfmarker>",
+        "index": 293
+    },
+    {
+        "speaker": "ME",
+        "text": "we could maybe have like an activation",
+        "index": 294
+    },
+    {
+        "speaker": "ME",
+        "text": "word .",
+        "index": 295
+    },
+    {
+        "speaker": "ME",
+        "text": "'Cause I've seen I've seen this used on computers before ,",
+        "index": 296
+    },
+    {
+        "speaker": "PM",
+        "text": "You cer certainly could .",
+        "index": 297
+    },
+    {
+        "speaker": "ME",
+        "text": "where you just <disfmarker> you address the remote ,",
+        "index": 298
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Depe uh i depends whether um <disfmarker>",
+        "index": 299
+    },
+    {
+        "speaker": "ME",
+        "text": "you address the computer ,",
+        "index": 300
+    },
+    {
+        "speaker": "ME",
+        "text": "and then give it a command .",
+        "index": 301
+    },
+    {
+        "speaker": "PM",
+        "text": "if we want to make this so simple that anybody can walk into the room and lift it up and say",
+        "index": 302
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh I see . Oh yeah , I see .",
+        "index": 303
+    },
+    {
+        "speaker": "PM",
+        "text": "B_B_C_ one .",
+        "index": 304
+    },
+    {
+        "speaker": "PM",
+        "text": "Um okay ,",
+        "index": 305
+    },
+    {
+        "speaker": "PM",
+        "text": "I mean you could print <disfmarker> actually print it on the uh",
+        "index": 306
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> Mm-hmm , yeah .",
+        "index": 307
+    },
+    {
+        "speaker": "PM",
+        "text": "device itself . Um .",
+        "index": 308
+    },
+    {
+        "speaker": "ME",
+        "text": "I mean I'm just thinking of the point of view of peop you could still like lose this remote .",
+        "index": 309
+    },
+    {
+        "speaker": "PM",
+        "text": "S",
+        "index": 310
+    },
+    {
+        "speaker": "PM",
+        "text": "th this I th <vocalsound> that's always gonna be a problem I think .",
+        "index": 311
+    },
+    {
+        "speaker": "PM",
+        "text": "Um and I I I s",
+        "index": 312
+    },
+    {
+        "speaker": "PM",
+        "text": "so",
+        "index": 313
+    },
+    {
+        "speaker": "PM",
+        "text": "I suppose one um <disfmarker>",
+        "index": 314
+    },
+    {
+        "speaker": "PM",
+        "text": "could make it so desirable that if people lose it they immediately go out and buy another one .",
+        "index": 315
+    },
+    {
+        "speaker": "PM",
+        "text": "Anyway ,",
+        "index": 316
+    },
+    {
+        "speaker": "PM",
+        "text": "sorry ,",
+        "index": 317
+    },
+    {
+        "speaker": "PM",
+        "text": "carry on .",
+        "index": 318
+    },
+    {
+        "speaker": "PM",
+        "text": "Do you want to just carry on with <disfmarker>",
+        "index": 319
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh",
+        "index": 320
+    },
+    {
+        "speaker": "ME",
+        "text": "no",
+        "index": 321
+    },
+    {
+        "speaker": "ME",
+        "text": "I I interrupted you ,",
+        "index": 322
+    },
+    {
+        "speaker": "PM",
+        "text": "or <disfmarker>",
+        "index": 323
+    },
+    {
+        "speaker": "PM",
+        "text": "no no , no",
+        "index": 324
+    },
+    {
+        "speaker": "ME",
+        "text": "sorry <vocalsound> .",
+        "index": 325
+    },
+    {
+        "speaker": "PM",
+        "text": "uh b I was in the middle of in the middle of your report there . <vocalsound>",
+        "index": 326
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh",
+        "index": 327
+    },
+    {
+        "speaker": "ME",
+        "text": "okay .",
+        "index": 328
+    },
+    {
+        "speaker": "ME",
+        "text": "Um well ,",
+        "index": 329
+    },
+    {
+        "speaker": "ME",
+        "text": "I was just kinda wrapping up there .",
+        "index": 330
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah ,",
+        "index": 331
+    },
+    {
+        "speaker": "ME",
+        "text": "I was thinking um , yeah , maybe such things are relevant .",
+        "index": 332
+    },
+    {
+        "speaker": "PM",
+        "text": "Mm okay . <vocalsound>",
+        "index": 333
+    },
+    {
+        "speaker": "ME",
+        "text": "We could make things much more f I think the the",
+        "index": 334
+    },
+    {
+        "speaker": "ME",
+        "text": "eighty percent of people would spend more on uh a remote uh that looks better ,",
+        "index": 335
+    },
+    {
+        "speaker": "ME",
+        "text": "combined with uh decrease the <disfmarker> or",
+        "index": 336
+    },
+    {
+        "speaker": "ME",
+        "text": "take out the limited functio functions",
+        "index": 337
+    },
+    {
+        "speaker": "ME",
+        "text": "that we don't really use much .",
+        "index": 338
+    },
+    {
+        "speaker": "ME",
+        "text": "<gap> alright take out teletext ,",
+        "index": 339
+    },
+    {
+        "speaker": "ME",
+        "text": "but as for channel settings and stuff it might it might um turn people somewhe peop some people that want the whole functionality away .",
+        "index": 340
+    },
+    {
+        "speaker": "ME",
+        "text": "But , since <disfmarker> if we're marketing a more kind of fashionable approach then it'd <disfmarker> it would be fashion and fashion over practicality .",
+        "index": 341
+    },
+    {
+        "speaker": "PM",
+        "text": "S s we could <disfmarker> we could make it dual function <gap> voice recognition and <gap> still have buttons on it um",
+        "index": 342
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> Oh , we could , yeah .",
+        "index": 343
+    },
+    {
+        "speaker": "ME",
+        "text": "We c",
+        "index": 344
+    },
+    {
+        "speaker": "ME",
+        "text": "yeah ,",
+        "index": 345
+    },
+    {
+        "speaker": "ME",
+        "text": "we could even have it as like a <disfmarker> yeah the buttons control this",
+        "index": 346
+    },
+    {
+        "speaker": "PM",
+        "text": "'cause we're <disfmarker>",
+        "index": 347
+    },
+    {
+        "speaker": "ME",
+        "text": "and the voice functions control the f things that you would do all the time ,",
+        "index": 348
+    },
+    {
+        "speaker": "ME",
+        "text": "so .",
+        "index": 349
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Certainly could . Yeah , yeah .",
+        "index": 350
+    },
+    {
+        "speaker": "ME",
+        "text": "So uh yeah ,",
+        "index": 351
+    },
+    {
+        "speaker": "ME",
+        "text": "if we could uh <disfmarker> power on and channel selection and and volume selection , wouldn't have to really <disfmarker>",
+        "index": 352
+    },
+    {
+        "speaker": "PM",
+        "text": "<gap> The <disfmarker> I mean the the advantage of doing away the buttons altogether is it makes the thing cheaper .",
+        "index": 353
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah",
+        "index": 354
+    },
+    {
+        "speaker": "ME",
+        "text": "and probably it would look better as well .",
+        "index": 355
+    },
+    {
+        "speaker": "PM",
+        "text": "No ,",
+        "index": 356
+    },
+    {
+        "speaker": "PM",
+        "text": "it cou certainly opens up the possibility for making it uh , you know , visually very distinctive .",
+        "index": 357
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah . yeah .",
+        "index": 358
+    },
+    {
+        "speaker": "PM",
+        "text": "Um 'cause you know , it does not have to be a oblong box .",
+        "index": 359
+    },
+    {
+        "speaker": "ME",
+        "text": "Lined with numbered buttons and <disfmarker>",
+        "index": 360
+    },
+    {
+        "speaker": "PM",
+        "text": "Mm , yeah .",
+        "index": 361
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay ,",
+        "index": 362
+    },
+    {
+        "speaker": "PM",
+        "text": "who <disfmarker>",
+        "index": 363
+    },
+    {
+        "speaker": "PM",
+        "text": "sorry ,",
+        "index": 364
+    },
+    {
+        "speaker": "PM",
+        "text": "have you have you finished there Andy ?",
+        "index": 365
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh yeah , yeah , that's everything .",
+        "index": 366
+    },
+    {
+        "speaker": "PM",
+        "text": "Yep , yep .",
+        "index": 367
+    },
+    {
+        "speaker": "PM",
+        "text": "Um <vocalsound> given that we've already had a extensive discussion uh <disfmarker> <vocalsound> .",
+        "index": 368
+    },
+    {
+        "speaker": "UI",
+        "text": "Okay well ,",
+        "index": 369
+    },
+    {
+        "speaker": "UI",
+        "text": "I can do mine .",
+        "index": 370
+    },
+    {
+        "speaker": "ME",
+        "text": "Do you want the cable ?",
+        "index": 371
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah ,",
+        "index": 372
+    },
+    {
+        "speaker": "UI",
+        "text": "let's see if I can make this work . Um .",
+        "index": 373
+    },
+    {
+        "speaker": "ID",
+        "text": "Oh ,",
+        "index": 374
+    },
+    {
+        "speaker": "ID",
+        "text": "you have to hit like function and F_ something .",
+        "index": 375
+    },
+    {
+        "speaker": "UI",
+        "text": "Oh .",
+        "index": 376
+    },
+    {
+        "speaker": "ME",
+        "text": "F_ eight .",
+        "index": 377
+    },
+    {
+        "speaker": "ID",
+        "text": "F_ eight .",
+        "index": 378
+    },
+    {
+        "speaker": "UI",
+        "text": "Is it doing <disfmarker>",
+        "index": 379
+    },
+    {
+        "speaker": "ID",
+        "text": "<vocalsound> Dunno .",
+        "index": 380
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh , give it about twenty seconds , or so .",
+        "index": 381
+    },
+    {
+        "speaker": "UI",
+        "text": "Okay .",
+        "index": 382
+    },
+    {
+        "speaker": "PM",
+        "text": "Ah ,",
+        "index": 383
+    },
+    {
+        "speaker": "ID",
+        "text": "Oh yeah ,",
+        "index": 384
+    },
+    {
+        "speaker": "UI",
+        "text": "Oh okay .",
+        "index": 385
+    },
+    {
+        "speaker": "PM",
+        "text": "there we go . <vocalsound>",
+        "index": 386
+    },
+    {
+        "speaker": "ID",
+        "text": "it's going .",
+        "index": 387
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> Okay , so",
+        "index": 388
+    },
+    {
+        "speaker": "UI",
+        "text": "this is just about the technical functions .",
+        "index": 389
+    },
+    {
+        "speaker": "PM",
+        "text": "Alright .",
+        "index": 390
+    },
+    {
+        "speaker": "UI",
+        "text": "So",
+        "index": 391
+    },
+    {
+        "speaker": "UI",
+        "text": "the method , I looked online for examples of other similar products",
+        "index": 392
+    },
+    {
+        "speaker": "UI",
+        "text": "and then just kind of was trying to brainstorm some possible design ideas",
+        "index": 393
+    },
+    {
+        "speaker": "UI",
+        "text": "and um identify what the necessary things are , what people are <disfmarker> what you really wanna have a remote control do .",
+        "index": 394
+    },
+    {
+        "speaker": "UI",
+        "text": "Um and then there are two different kinds that I found .",
+        "index": 395
+    },
+    {
+        "speaker": "UI",
+        "text": "There's a user centred one and an engineering centred one",
+        "index": 396
+    },
+    {
+        "speaker": "UI",
+        "text": "which I will have pictures of",
+        "index": 397
+    },
+    {
+        "speaker": "UI",
+        "text": "and then we kinda have to decide which one this should be .",
+        "index": 398
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> So",
+        "index": 399
+    },
+    {
+        "speaker": "UI",
+        "text": "these are the two different ones .",
+        "index": 400
+    },
+    {
+        "speaker": "UI",
+        "text": "This one um <disfmarker> this is the user centred ,",
+        "index": 401
+    },
+    {
+        "speaker": "UI",
+        "text": "it has uh quite a few mm uh um fewer buttons",
+        "index": 402
+    },
+    {
+        "speaker": "UI",
+        "text": "and then this is the engineering centred ,",
+        "index": 403
+    },
+    {
+        "speaker": "UI",
+        "text": "which has a lot more buttons ,",
+        "index": 404
+    },
+    {
+        "speaker": "UI",
+        "text": "and probably this is one that people complain about , about having too many buttons",
+        "index": 405
+    },
+    {
+        "speaker": "UI",
+        "text": "that you don't use .",
+        "index": 406
+    },
+    {
+        "speaker": "UI",
+        "text": "So basically ,",
+        "index": 407
+    },
+    {
+        "speaker": "UI",
+        "text": "what a remote control is is you <disfmarker> it's to send messages to the television set ,",
+        "index": 408
+    },
+    {
+        "speaker": "UI",
+        "text": "you know ,",
+        "index": 409
+    },
+    {
+        "speaker": "UI",
+        "text": "turn on , off , switch the channels and the volume and things such as that .",
+        "index": 410
+    },
+    {
+        "speaker": "UI",
+        "text": "And so for this product it's gonna be television only ,",
+        "index": 411
+    },
+    {
+        "speaker": "UI",
+        "text": "and then it has to have the uh logos",
+        "index": 412
+    },
+    {
+        "speaker": "UI",
+        "text": "for the company and the colours .",
+        "index": 413
+    },
+    {
+        "speaker": "UI",
+        "text": "And so ,",
+        "index": 414
+    },
+    {
+        "speaker": "UI",
+        "text": "for my personal preferences , I think this one is easier to use",
+        "index": 415
+    },
+    {
+        "speaker": "UI",
+        "text": "and has quite a <disfmarker> you know , fewer buttons .",
+        "index": 416
+    },
+    {
+        "speaker": "UI",
+        "text": "Um we want something that sends messages easily to the television",
+        "index": 417
+    },
+    {
+        "speaker": "UI",
+        "text": "and I was kind of wondering about this example that they have .",
+        "index": 418
+    },
+    {
+        "speaker": "UI",
+        "text": "It looks kind of narrow at the top ,",
+        "index": 419
+    },
+    {
+        "speaker": "UI",
+        "text": "and I was thinking maybe if it were wider at the top ,",
+        "index": 420
+    },
+    {
+        "speaker": "PM",
+        "text": "Mm , yeah .",
+        "index": 421
+    },
+    {
+        "speaker": "UI",
+        "text": "then that would be easier .",
+        "index": 422
+    },
+    {
+        "speaker": "UI",
+        "text": "Um <vocalsound> and so",
+        "index": 423
+    },
+    {
+        "speaker": "UI",
+        "text": "we have to decide what's gonna make our product different .",
+        "index": 424
+    },
+    {
+        "speaker": "UI",
+        "text": "E",
+        "index": 425
+    },
+    {
+        "speaker": "UI",
+        "text": "the unique style , maybe have it light up",
+        "index": 426
+    },
+    {
+        "speaker": "UI",
+        "text": "so it's visible in the dark ,",
+        "index": 427
+    },
+    {
+        "speaker": "UI",
+        "text": "um the changeable face-plates ,",
+        "index": 428
+    },
+    {
+        "speaker": "UI",
+        "text": "and the lighting up and visible I was <disfmarker>",
+        "index": 429
+    },
+    {
+        "speaker": "UI",
+        "text": "when we were talking about havi losing it ,",
+        "index": 430
+    },
+    {
+        "speaker": "UI",
+        "text": "maybe to have a button on the television that you press and it <disfmarker> maybe if it makes a noise or lights up or something like that ,",
+        "index": 431
+    },
+    {
+        "speaker": "UI",
+        "text": "so it's easier to find if someone has hidden under the couch or something like that .",
+        "index": 432
+    },
+    {
+        "speaker": "UI",
+        "text": "So",
+        "index": 433
+    },
+    {
+        "speaker": "UI",
+        "text": "that's my presentation . Yeah .",
+        "index": 434
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay ,",
+        "index": 435
+    },
+    {
+        "speaker": "PM",
+        "text": "can I um <disfmarker> I'm actually gonna use the um <disfmarker>",
+        "index": 436
+    },
+    {
+        "speaker": "PM",
+        "text": "it's gonna cause great technical problems over here .",
+        "index": 437
+    },
+    {
+        "speaker": "PM",
+        "text": "I'm actually gonna use the <disfmarker>",
+        "index": 438
+    },
+    {
+        "speaker": "UI",
+        "text": "F",
+        "index": 439
+    },
+    {
+        "speaker": "UI",
+        "text": "they probably clip to you .",
+        "index": 440
+    },
+    {
+        "speaker": "ID",
+        "text": "Oh yeah ,",
+        "index": 441
+    },
+    {
+        "speaker": "ID",
+        "text": "they might be movable .",
+        "index": 442
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 443
+    },
+    {
+        "speaker": "ID",
+        "text": "Oh yeah ,",
+        "index": 444
+    },
+    {
+        "speaker": "ID",
+        "text": "they're all <disfmarker>",
+        "index": 445
+    },
+    {
+        "speaker": "ID",
+        "text": "they're not connected to anything on the table ,",
+        "index": 446
+    },
+    {
+        "speaker": "ID",
+        "text": "you just leave 'em on",
+        "index": 447
+    },
+    {
+        "speaker": "ID",
+        "text": "and walk around with 'em .",
+        "index": 448
+    },
+    {
+        "speaker": "PM",
+        "text": "Yes ,",
+        "index": 449
+    },
+    {
+        "speaker": "PM",
+        "text": "rather than the uh the the traditional <disfmarker>",
+        "index": 450
+    },
+    {
+        "speaker": "PM",
+        "text": "in fact , um I won't even go that far .",
+        "index": 451
+    },
+    {
+        "speaker": "PM",
+        "text": "Um something like this shape ,",
+        "index": 452
+    },
+    {
+        "speaker": "PM",
+        "text": "you know ,",
+        "index": 453
+    },
+    {
+        "speaker": "PM",
+        "text": "sort of something that you can <disfmarker> that's sort of a more vertical shape ,",
+        "index": 454
+    },
+    {
+        "speaker": "PM",
+        "text": "um that you you sort of hold in your hand ,",
+        "index": 455
+    },
+    {
+        "speaker": "PM",
+        "text": "um , well",
+        "index": 456
+    },
+    {
+        "speaker": "PM",
+        "text": "I'm trying to think",
+        "index": 457
+    },
+    {
+        "speaker": "PM",
+        "text": "uh uh uh l uh l such as <disfmarker> I mean um something you hold up like that ,",
+        "index": 458
+    },
+    {
+        "speaker": "PM",
+        "text": "possibly with a couple of buttons like that ,",
+        "index": 459
+    },
+    {
+        "speaker": "PM",
+        "text": "but with the the entire top with the , you know , the uh the infrared or whatever source .",
+        "index": 460
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh so that you know , it's flying off in all directions ,",
+        "index": 461
+    },
+    {
+        "speaker": "PM",
+        "text": "so that uh um uh <vocalsound>",
+        "index": 462
+    },
+    {
+        "speaker": "PM",
+        "text": "again the <disfmarker> n need to look at the the the technicalities of um",
+        "index": 463
+    },
+    {
+        "speaker": "PM",
+        "text": "actually achieving that in terms of whether the , you know , the power requirements of the uh <disfmarker> such a source , um you know , compromise the <disfmarker> our our need for uh you know , it it being um mm permanently uh you know , available .",
+        "index": 464
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh whether whether different technology <disfmarker> um",
+        "index": 465
+    },
+    {
+        "speaker": "PM",
+        "text": "I mean th all all these remotes are presumably infrared ,",
+        "index": 466
+    },
+    {
+        "speaker": "PM",
+        "text": "and like they have been for a long time .",
+        "index": 467
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh we we possibly need to be looking at at at something different , um you know , short range , not like the old uh radio remote controls",
+        "index": 468
+    },
+    {
+        "speaker": "PM",
+        "text": "where you'd change next door's telly when you change yours . Um",
+        "index": 469
+    },
+    {
+        "speaker": "PM",
+        "text": "but uh uh I think basically i if we're going for <disfmarker> i",
+        "index": 470
+    },
+    {
+        "speaker": "PM",
+        "text": "if minimum number of buttons is our priority , then we should , as I say , r know , really bite the bullets and and reduce the buttons to absolute minimum ,",
+        "index": 471
+    },
+    {
+        "speaker": "PM",
+        "text": "you know ,",
+        "index": 472
+    },
+    {
+        "speaker": "PM",
+        "text": "possibly with backup channel and volume buttons and on off . Um and nothing else .",
+        "index": 473
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Um so that it can al it could uh almost end up like that ,",
+        "index": 474
+    },
+    {
+        "speaker": "PM",
+        "text": "but again , except that um <disfmarker> you know the risk of losing it .",
+        "index": 475
+    },
+    {
+        "speaker": "PM",
+        "text": "Um anyway okay um so",
+        "index": 476
+    },
+    {
+        "speaker": "PM",
+        "text": "Kate , wh what are your uh your thoughts on this ?",
+        "index": 477
+    },
+    {
+        "speaker": "ID",
+        "text": "Yes , mm . <gap>",
+        "index": 478
+    },
+    {
+        "speaker": "UI",
+        "text": "Oh .",
+        "index": 479
+    },
+    {
+        "speaker": "ID",
+        "text": "Which one does this plug into ?",
+        "index": 480
+    },
+    {
+        "speaker": "UI",
+        "text": "Hmm I think it's all there .",
+        "index": 481
+    },
+    {
+        "speaker": "ID",
+        "text": "That one .",
+        "index": 482
+    },
+    {
+        "speaker": "UI",
+        "text": "H",
+        "index": 483
+    },
+    {
+        "speaker": "ID",
+        "text": "I can't <disfmarker> did you <gap> <disfmarker>",
+        "index": 484
+    },
+    {
+        "speaker": "ID",
+        "text": "could you see it on you screen",
+        "index": 485
+    },
+    {
+        "speaker": "ID",
+        "text": "when it <disfmarker>",
+        "index": 486
+    },
+    {
+        "speaker": "UI",
+        "text": "Oh yeah .",
+        "index": 487
+    },
+    {
+        "speaker": "ID",
+        "text": "<vocalsound> That's not cool . <vocalsound>",
+        "index": 488
+    },
+    {
+        "speaker": "UI",
+        "text": "That's kind of strange .",
+        "index": 489
+    },
+    {
+        "speaker": "ID",
+        "text": "Oh well .",
+        "index": 490
+    },
+    {
+        "speaker": "ID",
+        "text": "Anyways . Um alright , yeah , so um",
+        "index": 491
+    },
+    {
+        "speaker": "ID",
+        "text": "I'll just do my presentation on the working design uh .",
+        "index": 492
+    },
+    {
+        "speaker": "ID",
+        "text": "<vocalsound> Oh there we go .",
+        "index": 493
+    },
+    {
+        "speaker": "ID",
+        "text": "Okay um",
+        "index": 494
+    },
+    {
+        "speaker": "ID",
+        "text": "just at the m yeah the whole sort of method of how the remote control works .",
+        "index": 495
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh the basic function of the remote control is to send messages to another sh system , the the T_V_ or the D_V_D_ player or whatever .",
+        "index": 496
+    },
+    {
+        "speaker": "ID",
+        "text": "Um and it does this uh by <disfmarker> well , you need <disfmarker> to start off you need an energy source <vocalsound>",
+        "index": 497
+    },
+    {
+        "speaker": "ID",
+        "text": "and this energy source will feed into an integrated circuit chip",
+        "index": 498
+    },
+    {
+        "speaker": "ID",
+        "text": "and the circuit chip is the part that actually composes the different messages uh within the remote",
+        "index": 499
+    },
+    {
+        "speaker": "ID",
+        "text": "um which will then be sent to the uh the television , the D_V_D_ to tell that what to do .",
+        "index": 500
+    },
+    {
+        "speaker": "ID",
+        "text": "Um and you need a user interface ,",
+        "index": 501
+    },
+    {
+        "speaker": "ID",
+        "text": "which controls the chip and thus the messages",
+        "index": 502
+    },
+    {
+        "speaker": "ID",
+        "text": "and uh the user interface is <disfmarker> that's basically just you kn the s sorta design of the actual remote which you hold in your hands and what buttons will be on it . Um <disfmarker>",
+        "index": 503
+    },
+    {
+        "speaker": "ID",
+        "text": "Oh shoot .",
+        "index": 504
+    },
+    {
+        "speaker": "ID",
+        "text": "Okay .",
+        "index": 505
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh just general findings .",
+        "index": 506
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh what we need uh technically speaking for the remote control is some sort of energy source , <vocalsound> uh some sort of user interface ,",
+        "index": 507
+    },
+    {
+        "speaker": "ID",
+        "text": "which I think we've mostly been talking about the user interface and the design of that .",
+        "index": 508
+    },
+    {
+        "speaker": "ID",
+        "text": "Um a circuit chip within that to uh control and send the messages and um a sender and receiver .",
+        "index": 509
+    },
+    {
+        "speaker": "ID",
+        "text": "And um <disfmarker>",
+        "index": 510
+    },
+    {
+        "speaker": "ID",
+        "text": "oops .",
+        "index": 511
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh-huh .",
+        "index": 512
+    },
+    {
+        "speaker": "ID",
+        "text": "This is just sort of a little schematic diagram of what we're looking for .",
+        "index": 513
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh this just kinda represents the energy source",
+        "index": 514
+    },
+    {
+        "speaker": "ID",
+        "text": "which feeds into the circuit chip",
+        "index": 515
+    },
+    {
+        "speaker": "ID",
+        "text": "uh which maybe then we could have that feed into a switch",
+        "index": 516
+    },
+    {
+        "speaker": "ID",
+        "text": "which would send signals f to um <vocalsound> a subcomponent and on to a light bulb between <disfmarker>",
+        "index": 517
+    },
+    {
+        "speaker": "ID",
+        "text": "so it'll light up once we start <disfmarker> once you start pressing buttons .",
+        "index": 518
+    },
+    {
+        "speaker": "ID",
+        "text": "Um also send signals to the um infrared bulb ,",
+        "index": 519
+    },
+    {
+        "speaker": "ID",
+        "text": "which will be the part that actually <disfmarker> <vocalsound> what ? Sends signals to the the television .",
+        "index": 520
+    },
+    {
+        "speaker": "ID",
+        "text": "And then you've got your happy little T_V_ watcher there .",
+        "index": 521
+    },
+    {
+        "speaker": "ID",
+        "text": "And so",
+        "index": 522
+    },
+    {
+        "speaker": "ID",
+        "text": "my personal preferences <disfmarker>",
+        "index": 523
+    },
+    {
+        "speaker": "ID",
+        "text": "I I just think we need sorta big uh energy source that won't die out ,",
+        "index": 524
+    },
+    {
+        "speaker": "ID",
+        "text": "uh perhaps some sort of rechargeable battery",
+        "index": 525
+    },
+    {
+        "speaker": "ID",
+        "text": "or a battery dock you could place it in ,",
+        "index": 526
+    },
+    {
+        "speaker": "ID",
+        "text": "so it'd constantly be charged ,",
+        "index": 527
+    },
+    {
+        "speaker": "ID",
+        "text": "so you wouldn't have to uh be worrying about it running out of batteries and not changing channels for you .",
+        "index": 528
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh a wide range uh sender-receiver ,",
+        "index": 529
+    },
+    {
+        "speaker": "ID",
+        "text": "so that you can hit the buttons from basically anywhere in the room , and the channel'll still be changed .",
+        "index": 530
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh also definitely a user-friendly interface <vocalsound>",
+        "index": 531
+    },
+    {
+        "speaker": "ID",
+        "text": "um and I think we've all sort of mentioned adding a a locating device on it ,",
+        "index": 532
+    },
+    {
+        "speaker": "ID",
+        "text": "so when it does get stuck under the couch cushions , as they inevitably do , you can find them easily .",
+        "index": 533
+    },
+    {
+        "speaker": "ID",
+        "text": "And that's pretty much it .",
+        "index": 534
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay .",
+        "index": 535
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh it seems seems to me there are a number of fundamental decisions to make",
+        "index": 536
+    },
+    {
+        "speaker": "ID",
+        "text": "Mm . <gap>",
+        "index": 537
+    },
+    {
+        "speaker": "PM",
+        "text": "before we um <disfmarker>",
+        "index": 538
+    },
+    {
+        "speaker": "PM",
+        "text": "I think your point about the the big energy source is uh a very valid one .",
+        "index": 539
+    },
+    {
+        "speaker": "PM",
+        "text": "Um I don't suppose we've got any statistics on the the life expectancy of uh remote controls , particularly sort of independent ones .",
+        "index": 540
+    },
+    {
+        "speaker": "PM",
+        "text": "Um given",
+        "index": 541
+    },
+    {
+        "speaker": "PM",
+        "text": "you know , the number of things you buy these days , which you know , have a a a lithium whatever battery in ,",
+        "index": 542
+    },
+    {
+        "speaker": "PM",
+        "text": "that's uh , you know never needs replacing .",
+        "index": 543
+    },
+    {
+        "speaker": "PM",
+        "text": "Um perhaps we should have the the disposable remote control ,",
+        "index": 544
+    },
+    {
+        "speaker": "PM",
+        "text": "uh um you know ,",
+        "index": 545
+    },
+    {
+        "speaker": "PM",
+        "text": "one <disfmarker> some sort of typical usage .",
+        "index": 546
+    },
+    {
+        "speaker": "PM",
+        "text": "You know ,",
+        "index": 547
+    },
+    {
+        "speaker": "PM",
+        "text": "the the the battery will last",
+        "index": 548
+    },
+    {
+        "speaker": "PM",
+        "text": "know , five , ten years .",
+        "index": 549
+    },
+    {
+        "speaker": "PM",
+        "text": "By which time <disfmarker> I mean when all's said and done , the digital television <vocalsound> will be taking over in that time scale . Um",
+        "index": 550
+    },
+    {
+        "speaker": "PM",
+        "text": "uh uh p perhaps we should , know , reduce the uh , you know , the sort of moving parts even more by not even having a battery compartment",
+        "index": 551
+    },
+    {
+        "speaker": "PM",
+        "text": "and uh <disfmarker>",
+        "index": 552
+    },
+    {
+        "speaker": "ID",
+        "text": "Just having one that's guaranteed to last five to ten years ?",
+        "index": 553
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah ,",
+        "index": 554
+    },
+    {
+        "speaker": "PM",
+        "text": "and if if anybody manages to run it down , we'll we'll give 'em a new one .",
+        "index": 555
+    },
+    {
+        "speaker": "ID",
+        "text": "Oh , cool .",
+        "index": 556
+    },
+    {
+        "speaker": "ID",
+        "text": "<vocalsound> Yeah , fair enough .",
+        "index": 557
+    },
+    {
+        "speaker": "PM",
+        "text": "Um it's , you know , it's <disfmarker> what it saves in cost and you know there there's a <disfmarker>",
+        "index": 558
+    },
+    {
+        "speaker": "PM",
+        "text": "well ,",
+        "index": 559
+    },
+    {
+        "speaker": "PM",
+        "text": "it's actually a marketing gimmick .",
+        "index": 560
+    },
+    {
+        "speaker": "PM",
+        "text": "I mean it's hardly a gimmick ,",
+        "index": 561
+    },
+    {
+        "speaker": "PM",
+        "text": "it's uh it's totally practical .",
+        "index": 562
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh so I th think you know the idea of a rechargeable one is um",
+        "index": 563
+    },
+    {
+        "speaker": "PM",
+        "text": "uh unless you're really high tech and it sort of just recharges itself if it's n by , you know , magnetic waves or whatever ,",
+        "index": 564
+    },
+    {
+        "speaker": "PM",
+        "text": "if if it <disfmarker>",
+        "index": 565
+    },
+    {
+        "speaker": "ME",
+        "text": "It could have like uh <disfmarker> know like a cordless phone in your house it s got like a base that sits there all the time .",
+        "index": 566
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah . <vocalsound>",
+        "index": 567
+    },
+    {
+        "speaker": "ID",
+        "text": "Mm , mm .",
+        "index": 568
+    },
+    {
+        "speaker": "PM",
+        "text": "Are are people really gonna use it though ? Um .",
+        "index": 569
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> I suppose , yeah .",
+        "index": 570
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah ,",
+        "index": 571
+    },
+    {
+        "speaker": "UI",
+        "text": "people are pro",
+        "index": 572
+    },
+    {
+        "speaker": "ID",
+        "text": "Mm yeah <vocalsound>",
+        "index": 573
+    },
+    {
+        "speaker": "UI",
+        "text": "I would think that people might forget <disfmarker>",
+        "index": 574
+    },
+    {
+        "speaker": "UI",
+        "text": "I mean people forget to put their cordless phones back on there ,",
+        "index": 575
+    },
+    {
+        "speaker": "PM",
+        "text": "I I th I think <disfmarker>",
+        "index": 576
+    },
+    {
+        "speaker": "ID",
+        "text": "Mm-mm .",
+        "index": 577
+    },
+    {
+        "speaker": "UI",
+        "text": "so .",
+        "index": 578
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah ,",
+        "index": 579
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> Yeah . <vocalsound>",
+        "index": 580
+    },
+    {
+        "speaker": "PM",
+        "text": "it's",
+        "index": 581
+    },
+    {
+        "speaker": "PM",
+        "text": "um <disfmarker> I mean I know that somei times my my wife goes out in the morning",
+        "index": 582
+    },
+    {
+        "speaker": "PM",
+        "text": "and says oh I should have put the phone on to charge",
+        "index": 583
+    },
+    {
+        "speaker": "PM",
+        "text": "and then then she's had those for so long that if she hasn't worked that out by now . Um .",
+        "index": 584
+    },
+    {
+        "speaker": "ID",
+        "text": "'Cause I only remember to charge my cell phone uh when battery dies . <vocalsound>",
+        "index": 585
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> Yeah .",
+        "index": 586
+    },
+    {
+        "speaker": "ID",
+        "text": "And that's pretty much <disfmarker>",
+        "index": 587
+    },
+    {
+        "speaker": "PM",
+        "text": "When it <disfmarker>",
+        "index": 588
+    },
+    {
+        "speaker": "PM",
+        "text": "yeah ,",
+        "index": 589
+    },
+    {
+        "speaker": "PM",
+        "text": "wh when it's died is a problem .",
+        "index": 590
+    },
+    {
+        "speaker": "ID",
+        "text": "yeah . Yeah ,",
+        "index": 591
+    },
+    {
+        "speaker": "ID",
+        "text": "when it turns itself off , that's when I plug it in ,",
+        "index": 592
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah , yeah ,",
+        "index": 593
+    },
+    {
+        "speaker": "PM",
+        "text": "yeah , <gap> so uh um",
+        "index": 594
+    },
+    {
+        "speaker": "ID",
+        "text": "yeah . <vocalsound>",
+        "index": 595
+    },
+    {
+        "speaker": "PM",
+        "text": "what so wh what what do we think about the um the the permanent mm battery ?",
+        "index": 596
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah , think that's a good idea .",
+        "index": 597
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh . That sounds pretty good , yeah .",
+        "index": 598
+    },
+    {
+        "speaker": "UI",
+        "text": "No .",
+        "index": 599
+    },
+    {
+        "speaker": "PM",
+        "text": "Is the",
+        "index": 600
+    },
+    {
+        "speaker": "PM",
+        "text": "uh <disfmarker> you know ,",
+        "index": 601
+    },
+    {
+        "speaker": "PM",
+        "text": "we we we are really going for the ultimate in ex uh external simplicity here .",
+        "index": 602
+    },
+    {
+        "speaker": "PM",
+        "text": "Um you know ,",
+        "index": 603
+    },
+    {
+        "speaker": "PM",
+        "text": "cut cost within the",
+        "index": 604
+    },
+    {
+        "speaker": "PM",
+        "text": "manufacturing",
+        "index": 605
+    },
+    {
+        "speaker": "PM",
+        "text": "and uh you know , if we have a high tech interior , then then that that sh may well be cost effective .",
+        "index": 606
+    },
+    {
+        "speaker": "UI",
+        "text": "Do they make batteries that last that long ?",
+        "index": 607
+    },
+    {
+        "speaker": "PM",
+        "text": "I mean",
+        "index": 608
+    },
+    {
+        "speaker": "PM",
+        "text": "th th",
+        "index": 609
+    },
+    {
+        "speaker": "PM",
+        "text": "certainly .",
+        "index": 610
+    },
+    {
+        "speaker": "PM",
+        "text": "Um I can't think of anything off the s top of my head ,",
+        "index": 611
+    },
+    {
+        "speaker": "ID",
+        "text": "<vocalsound> They usually have the little light uh <vocalsound> source ,",
+        "index": 612
+    },
+    {
+        "speaker": "PM",
+        "text": "but there are certainly things that you buy . I mean calculators for example .",
+        "index": 613
+    },
+    {
+        "speaker": "ID",
+        "text": "I dunno what the heck they're called ,",
+        "index": 614
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah , they have that little solar <disfmarker>",
+        "index": 615
+    },
+    {
+        "speaker": "ID",
+        "text": "the <disfmarker> but",
+        "index": 616
+    },
+    {
+        "speaker": "ID",
+        "text": "yeah , the little cells",
+        "index": 617
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Som well some do ,",
+        "index": 618
+    },
+    {
+        "speaker": "ID",
+        "text": "that <disfmarker>",
+        "index": 619
+    },
+    {
+        "speaker": "PM",
+        "text": "I mean",
+        "index": 620
+    },
+    {
+        "speaker": "PM",
+        "text": "th th",
+        "index": 621
+    },
+    {
+        "speaker": "PM",
+        "text": "but there are battery ones",
+        "index": 622
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah .",
+        "index": 623
+    },
+    {
+        "speaker": "PM",
+        "text": "that um are you know , sort of permanently sealed .",
+        "index": 624
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah .",
+        "index": 625
+    },
+    {
+        "speaker": "PM",
+        "text": "In in fact I'd <disfmarker>",
+        "index": 626
+    },
+    {
+        "speaker": "ID",
+        "text": "Most of them , don't they have sort of a combination of the two ,",
+        "index": 627
+    },
+    {
+        "speaker": "ID",
+        "text": "like",
+        "index": 628
+    },
+    {
+        "speaker": "ID",
+        "text": "when there is light , they'll work off the light ,",
+        "index": 629
+    },
+    {
+        "speaker": "ID",
+        "text": "and if there isn't , they'll kick into this battery ,",
+        "index": 630
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah ,",
+        "index": 631
+    },
+    {
+        "speaker": "PM",
+        "text": "uh uh <disfmarker>",
+        "index": 632
+    },
+    {
+        "speaker": "ID",
+        "text": "so we can maybe do something like that",
+        "index": 633
+    },
+    {
+        "speaker": "ID",
+        "text": "whereas there is a battery ,",
+        "index": 634
+    },
+    {
+        "speaker": "ID",
+        "text": "but if there's enough light , then it's using the light ,",
+        "index": 635
+    },
+    {
+        "speaker": "ID",
+        "text": "so that it's not actually draining the battery all the time ,",
+        "index": 636
+    },
+    {
+        "speaker": "ID",
+        "text": "but you will have the battery there for when you need it .",
+        "index": 637
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah , I I mean",
+        "index": 638
+    },
+    {
+        "speaker": "PM",
+        "text": "th th this needs going t into the technology a bit .",
+        "index": 639
+    },
+    {
+        "speaker": "PM",
+        "text": "I mean the the actual time that a remote control is actually operating",
+        "index": 640
+    },
+    {
+        "speaker": "PM",
+        "text": "I would think is i is is probably , you know , no more than minutes in its entire life .",
+        "index": 641
+    },
+    {
+        "speaker": "ID",
+        "text": "Oh ,",
+        "index": 642
+    },
+    {
+        "speaker": "PM",
+        "text": "Um . <gap>",
+        "index": 643
+    },
+    {
+        "speaker": "ID",
+        "text": "it depend if it's <disfmarker> uh depends who who's using it , who's just sitting there clicking clicking clicking clicking ,",
+        "index": 644
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah ,",
+        "index": 645
+    },
+    {
+        "speaker": "UI",
+        "text": "some people are <disfmarker>",
+        "index": 646
+    },
+    {
+        "speaker": "PM",
+        "text": "If , but I say if if people are getting R_S_I_ from it then uh then uh then then perhaps we're looking at the wrong market",
+        "index": 647
+    },
+    {
+        "speaker": "ID",
+        "text": "yeah .",
+        "index": 648
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah , <vocalsound>",
+        "index": 649
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah . Yeah .",
+        "index": 650
+    },
+    {
+        "speaker": "ID",
+        "text": "then they're clicking a lot , yeah . <vocalsound>",
+        "index": 651
+    },
+    {
+        "speaker": "ME",
+        "text": "W",
+        "index": 652
+    },
+    {
+        "speaker": "ME",
+        "text": "like like this um this uh market research thing says number of times per hour that it's used , channel selection a hundred and sixty eight",
+        "index": 653
+    },
+    {
+        "speaker": "PM",
+        "text": "n",
+        "index": 654
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> Per hour ?",
+        "index": 655
+    },
+    {
+        "speaker": "ME",
+        "text": "times per hour .",
+        "index": 656
+    },
+    {
+        "speaker": "PM",
+        "text": "Right .",
+        "index": 657
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah . <vocalsound> Yeah .",
+        "index": 658
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> Yeah .",
+        "index": 659
+    },
+    {
+        "speaker": "UI",
+        "text": "Wow . <vocalsound> That's a lot . <vocalsound>",
+        "index": 660
+    },
+    {
+        "speaker": "PM",
+        "text": "Oh ,",
+        "index": 661
+    },
+    {
+        "speaker": "PM",
+        "text": "I must admit I hadn't um <disfmarker> I'd I'd missed that .",
+        "index": 662
+    },
+    {
+        "speaker": "PM",
+        "text": "That does sound excessive .",
+        "index": 663
+    },
+    {
+        "speaker": "ME",
+        "text": "But then again , if you think it <disfmarker> of the amount of , you know amount of use it's like <disfmarker>",
+        "index": 664
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah .",
+        "index": 665
+    },
+    {
+        "speaker": "ME",
+        "text": "That's <disfmarker> it's less than a second , um .",
+        "index": 666
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah . Yeah .",
+        "index": 667
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah .",
+        "index": 668
+    },
+    {
+        "speaker": "PM",
+        "text": "Well",
+        "index": 669
+    },
+    {
+        "speaker": "PM",
+        "text": "that's right ,",
+        "index": 670
+    },
+    {
+        "speaker": "PM",
+        "text": "and and I I don't I don't even know whether the I don't even know whether the s the signal lasts as long as you actually keep the button pressed ,",
+        "index": 671
+    },
+    {
+        "speaker": "PM",
+        "text": "or whether it's just a",
+        "index": 672
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> Yeah .",
+        "index": 673
+    },
+    {
+        "speaker": "PM",
+        "text": "sorta tenth of a second , no matter how long you press it for ,",
+        "index": 674
+    },
+    {
+        "speaker": "PM",
+        "text": "I don't know I don't actually know . Um .",
+        "index": 675
+    },
+    {
+        "speaker": "UI",
+        "text": "Though I think with digital T_V_ , like I know on my cable box , you're not supposed to do that",
+        "index": 676
+    },
+    {
+        "speaker": "UI",
+        "text": "because the channel can't keep up with it if you just press it like that ,",
+        "index": 677
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah .",
+        "index": 678
+    },
+    {
+        "speaker": "UI",
+        "text": "so you're supposed to use the menu and go through the different",
+        "index": 679
+    },
+    {
+        "speaker": "UI",
+        "text": "channels that way instead of <disfmarker>",
+        "index": 680
+    },
+    {
+        "speaker": "PM",
+        "text": "Right , so",
+        "index": 681
+    },
+    {
+        "speaker": "PM",
+        "text": "I've got a message to say five minutes ,",
+        "index": 682
+    },
+    {
+        "speaker": "PM",
+        "text": "I dunno how long ago that appeared .",
+        "index": 683
+    },
+    {
+        "speaker": "PM",
+        "text": "Um 'cause we're we're getting",
+        "index": 684
+    },
+    {
+        "speaker": "UI",
+        "text": "Uh-oh .",
+        "index": 685
+    },
+    {
+        "speaker": "PM",
+        "text": "um <disfmarker> right , so",
+        "index": 686
+    },
+    {
+        "speaker": "PM",
+        "text": "I'd <disfmarker> I need to sum up very quickly here um . <vocalsound>",
+        "index": 687
+    },
+    {
+        "speaker": "PM",
+        "text": "We're looking at extreme simplicity .",
+        "index": 688
+    },
+    {
+        "speaker": "PM",
+        "text": "We're looking at a radically different shape .",
+        "index": 689
+    },
+    {
+        "speaker": "PM",
+        "text": "Possibly no buttons at all um ,",
+        "index": 690
+    },
+    {
+        "speaker": "PM",
+        "text": "but if you can incorporate um channel change and volume buttons um in into the design , then then that's fine .",
+        "index": 691
+    },
+    {
+        "speaker": "PM",
+        "text": "Um in the <disfmarker> I mean the the role of the of the um the user interface des designer becomes b you know more important here ,",
+        "index": 692
+    },
+    {
+        "speaker": "PM",
+        "text": "because , you know , shape is no longer an a uh um a serious constraint .",
+        "index": 693
+    },
+    {
+        "speaker": "PM",
+        "text": "But we clearly only need th the main buttons , although , uh if <disfmarker> clearly only need the main functions .",
+        "index": 694
+    },
+    {
+        "speaker": "PM",
+        "text": "Um I don't see why we shouldn't go for voice recognition",
+        "index": 695
+    },
+    {
+        "speaker": "PM",
+        "text": "um and the the only buttons that I think we need are channel control , volume control and on off .",
+        "index": 696
+    },
+    {
+        "speaker": "PM",
+        "text": "Um it needs to incorporate the corporate logo , uh the the grey and yellow colour scheme",
+        "index": 697
+    },
+    {
+        "speaker": "PM",
+        "text": "and <vocalsound> there's no reason why we can't introduce um interchangeable uh covers . <vocalsound>",
+        "index": 698
+    },
+    {
+        "speaker": "PM",
+        "text": "Um uh d so does that accurately summarise what we've discussed ?",
+        "index": 699
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 700
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah .",
+        "index": 701
+    },
+    {
+        "speaker": "ID",
+        "text": "Yep . Hmm .",
+        "index": 702
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Right .",
+        "index": 703
+    },
+    {
+        "speaker": "UI",
+        "text": "Um <disfmarker> <vocalsound>",
+        "index": 704
+    },
+    {
+        "speaker": "PM",
+        "text": "So uh <disfmarker>",
+        "index": 705
+    },
+    {
+        "speaker": "UI",
+        "text": "Oh",
+        "index": 706
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Yeah . We are doing just the television .",
+        "index": 707
+    },
+    {
+        "speaker": "UI",
+        "text": "I just have one question .",
+        "index": 708
+    },
+    {
+        "speaker": "UI",
+        "text": "So",
+        "index": 709
+    },
+    {
+        "speaker": "UI",
+        "text": "are we doing just the television",
+        "index": 710
+    },
+    {
+        "speaker": "UI",
+        "text": "or are we doing <disfmarker>",
+        "index": 711
+    },
+    {
+        "speaker": "UI",
+        "text": "so not D_V_D_ players ,",
+        "index": 712
+    },
+    {
+        "speaker": "PM",
+        "text": "No .",
+        "index": 713
+    },
+    {
+        "speaker": "UI",
+        "text": "we",
+        "index": 714
+    },
+    {
+        "speaker": "UI",
+        "text": "okay , okay .",
+        "index": 715
+    },
+    {
+        "speaker": "PM",
+        "text": "I think that's quite clear from the the information that we've been given ,",
+        "index": 716
+    },
+    {
+        "speaker": "PM",
+        "text": "no ?",
+        "index": 717
+    },
+    {
+        "speaker": "UI",
+        "text": "Okay .",
+        "index": 718
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah ,",
+        "index": 719
+    },
+    {
+        "speaker": "ME",
+        "text": "like in the email of television only . In fact they're <gap> in the constraints email that I got .",
+        "index": 720
+    },
+    {
+        "speaker": "PM",
+        "text": "Right .",
+        "index": 721
+    },
+    {
+        "speaker": "ME",
+        "text": "Didn't you mention the teletext , just television only ?",
+        "index": 722
+    },
+    {
+        "speaker": "PM",
+        "text": "Oh yeah",
+        "index": 723
+    },
+    {
+        "speaker": "PM",
+        "text": "well",
+        "index": 724
+    },
+    {
+        "speaker": "PM",
+        "text": "th that's one I s that's one I sent you ,",
+        "index": 725
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah .",
+        "index": 726
+    },
+    {
+        "speaker": "PM",
+        "text": "which which was my interpretation of uh of the uh <disfmarker> what came down from from head office . Um <disfmarker> <vocalsound>",
+        "index": 727
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh okay . <vocalsound> Oh yeah .",
+        "index": 728
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah . <vocalsound>",
+        "index": 729
+    },
+    {
+        "speaker": "UI",
+        "text": "Oh <vocalsound> okay .",
+        "index": 730
+    },
+    {
+        "speaker": "ID",
+        "text": "Okay .",
+        "index": 731
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> That's <vocalsound> that that that that's their uh their view .",
+        "index": 732
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay , so uh",
+        "index": 733
+    },
+    {
+        "speaker": "PM",
+        "text": "we can all give some thought to that uh for for the next meeting ,",
+        "index": 734
+    },
+    {
+        "speaker": "PM",
+        "text": "thank you very much indeed .",
+        "index": 735
+    },
+    {
+        "speaker": "UI",
+        "text": "Okay .",
+        "index": 736
+    },
+    {
+        "speaker": "ID",
+        "text": "Cool .",
+        "index": 737
+    }
+]

@@ -1,0 +1,1867 @@
+[
+    {
+        "speaker": "PM",
+        "text": "Okay ,",
+        "index": 0
+    },
+    {
+        "speaker": "PM",
+        "text": "good morning .",
+        "index": 1
+    },
+    {
+        "speaker": "PM",
+        "text": "This is our first team meeting .",
+        "index": 2
+    },
+    {
+        "speaker": "UI",
+        "text": "Good day .",
+        "index": 3
+    },
+    {
+        "speaker": "ME",
+        "text": "Morning .",
+        "index": 4
+    },
+    {
+        "speaker": "ID",
+        "text": "Morning .",
+        "index": 5
+    },
+    {
+        "speaker": "PM",
+        "text": "I'll be your Project Manager for today , for this project .",
+        "index": 6
+    },
+    {
+        "speaker": "PM",
+        "text": "My name is Mark",
+        "index": 7
+    },
+    {
+        "speaker": "PM",
+        "text": "<gap> will be giving this presentation for you to kick the project off .",
+        "index": 8
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> That's my uh",
+        "index": 9
+    },
+    {
+        "speaker": "PM",
+        "text": "that's the agenda for today .",
+        "index": 10
+    },
+    {
+        "speaker": "PM",
+        "text": "Well ,",
+        "index": 11
+    },
+    {
+        "speaker": "PM",
+        "text": "of course we're new to each other ,",
+        "index": 12
+    },
+    {
+        "speaker": "PM",
+        "text": "so I'd like to get acquainted first .",
+        "index": 13
+    },
+    {
+        "speaker": "PM",
+        "text": "So let's do that first ,",
+        "index": 14
+    },
+    {
+        "speaker": "PM",
+        "text": "I mean <disfmarker>",
+        "index": 15
+    },
+    {
+        "speaker": "PM",
+        "text": "Let's start with you ,",
+        "index": 16
+    },
+    {
+        "speaker": "PM",
+        "text": "can you introduce yourself ?",
+        "index": 17
+    },
+    {
+        "speaker": "PM",
+        "text": "You're our Marketing Expert .",
+        "index": 18
+    },
+    {
+        "speaker": "ME",
+        "text": "Yes . <vocalsound>",
+        "index": 19
+    },
+    {
+        "speaker": "ME",
+        "text": "Um my name is Dirk , Dirk Meinfeld .",
+        "index": 20
+    },
+    {
+        "speaker": "ME",
+        "text": "Um I will be uh <gap> Pr Project <disfmarker> the Marketing Expert .",
+        "index": 21
+    },
+    {
+        "speaker": "ME",
+        "text": "And I will see what the user wants",
+        "index": 22
+    },
+    {
+        "speaker": "ME",
+        "text": "and uh what we can do uh with the new produ project <disfmarker> product . <vocalsound>",
+        "index": 23
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay , excellent .",
+        "index": 24
+    },
+    {
+        "speaker": "PM",
+        "text": "And you are User Interface <disfmarker>",
+        "index": 25
+    },
+    {
+        "speaker": "UI",
+        "text": "Nick Broer ,",
+        "index": 26
+    },
+    {
+        "speaker": "UI",
+        "text": "User Interface Designer .",
+        "index": 27
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah .",
+        "index": 28
+    },
+    {
+        "speaker": "UI",
+        "text": "I'm going to uh look at the technical design from the uh user point of view .",
+        "index": 29
+    },
+    {
+        "speaker": "PM",
+        "text": "Excellent . Okay .",
+        "index": 30
+    },
+    {
+        "speaker": "ID",
+        "text": "My name is Xavier Juergens ,",
+        "index": 31
+    },
+    {
+        "speaker": "ID",
+        "text": "I'm the Industrial Designer ,",
+        "index": 32
+    },
+    {
+        "speaker": "ID",
+        "text": "and there are three main questions that I have to find an answer to today .",
+        "index": 33
+    },
+    {
+        "speaker": "ID",
+        "text": "First one is uh what happens inside the apparatus ,",
+        "index": 34
+    },
+    {
+        "speaker": "ID",
+        "text": "second is what is uh the apparatus made of ,",
+        "index": 35
+    },
+    {
+        "speaker": "ID",
+        "text": "and the third is what should it look like .",
+        "index": 36
+    },
+    {
+        "speaker": "PM",
+        "text": "What should it look like ? Okay .",
+        "index": 37
+    },
+    {
+        "speaker": "PM",
+        "text": "Oh ,",
+        "index": 38
+    },
+    {
+        "speaker": "PM",
+        "text": "let's kick it off .",
+        "index": 39
+    },
+    {
+        "speaker": "PM",
+        "text": "Oh , there we go .",
+        "index": 40
+    },
+    {
+        "speaker": "PM",
+        "text": "So ,",
+        "index": 41
+    },
+    {
+        "speaker": "PM",
+        "text": "our new project is about <disfmarker>",
+        "index": 42
+    },
+    {
+        "speaker": "PM",
+        "text": "we need design a remote control for television set ,",
+        "index": 43
+    },
+    {
+        "speaker": "PM",
+        "text": "so ,",
+        "index": 44
+    },
+    {
+        "speaker": "PM",
+        "text": "which has to be original , trendy and user-friendly .",
+        "index": 45
+    },
+    {
+        "speaker": "PM",
+        "text": "I took this off our corporate website .",
+        "index": 46
+    },
+    {
+        "speaker": "PM",
+        "text": "It's",
+        "index": 47
+    },
+    {
+        "speaker": "PM",
+        "text": "<disfmarker> I think well it sums up what we need to do .",
+        "index": 48
+    },
+    {
+        "speaker": "PM",
+        "text": "We're inspired by latest fashion , not only electronics , but also the latest trends in clothes and interior design .",
+        "index": 49
+    },
+    {
+        "speaker": "PM",
+        "text": "That's why our product will always fit in your home .",
+        "index": 50
+    },
+    {
+        "speaker": "PM",
+        "text": "So apparently we need to <vocalsound> um be very at um very open to what's currently hot in the market .",
+        "index": 51
+    },
+    {
+        "speaker": "PM",
+        "text": "So that's what you need to do to bring us the latest info and what people want .",
+        "index": 52
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah . Yeah .",
+        "index": 53
+    },
+    {
+        "speaker": "PM",
+        "text": "So <disfmarker> So",
+        "index": 54
+    },
+    {
+        "speaker": "PM",
+        "text": "we put the fashion in electronics .",
+        "index": 55
+    },
+    {
+        "speaker": "PM",
+        "text": "So that's what we need to go for .",
+        "index": 56
+    },
+    {
+        "speaker": "PM",
+        "text": "Anyway , we'll take this project in three steps , three pha uh three phase of design .",
+        "index": 57
+    },
+    {
+        "speaker": "PM",
+        "text": "First step will be the functional design .",
+        "index": 58
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 59
+    },
+    {
+        "speaker": "PM",
+        "text": "And that's basically what we're gonna do .",
+        "index": 60
+    },
+    {
+        "speaker": "PM",
+        "text": "Everybody has uh a piece of individual work and a meeting afterwards ,",
+        "index": 61
+    },
+    {
+        "speaker": "PM",
+        "text": "so we can share information",
+        "index": 62
+    },
+    {
+        "speaker": "PM",
+        "text": "about <disfmarker>",
+        "index": 63
+    },
+    {
+        "speaker": "PM",
+        "text": "So",
+        "index": 64
+    },
+    {
+        "speaker": "PM",
+        "text": "I'm gonna keep this short ,",
+        "index": 65
+    },
+    {
+        "speaker": "PM",
+        "text": "since we had a technical problem .",
+        "index": 66
+    },
+    {
+        "speaker": "PM",
+        "text": "So skip through this .",
+        "index": 67
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh . Okay .",
+        "index": 68
+    },
+    {
+        "speaker": "PM",
+        "text": "Every meeting we <disfmarker> everybody can present their uh their views and everything ,",
+        "index": 69
+    },
+    {
+        "speaker": "PM",
+        "text": "so to help with these , you have <disfmarker> we have the SMARTboards here .",
+        "index": 70
+    },
+    {
+        "speaker": "PM",
+        "text": "We can use a regular PowerPoint presentation .",
+        "index": 71
+    },
+    {
+        "speaker": "PM",
+        "text": "I'm supposed to give you an introduction on this doodling board ,",
+        "index": 72
+    },
+    {
+        "speaker": "PM",
+        "text": "so it's <disfmarker>",
+        "index": 73
+    },
+    {
+        "speaker": "PM",
+        "text": "actually it's very easy .",
+        "index": 74
+    },
+    {
+        "speaker": "PM",
+        "text": "Like it says , very simple ,",
+        "index": 75
+    },
+    {
+        "speaker": "PM",
+        "text": "you just take out the pen .",
+        "index": 76
+    },
+    {
+        "speaker": "PM",
+        "text": "Like you see here , I'll just take the <disfmarker> take <gap> here .",
+        "index": 77
+    },
+    {
+        "speaker": "PM",
+        "text": "That's it , you just put it on the board .",
+        "index": 78
+    },
+    {
+        "speaker": "PM",
+        "text": "You see a pen here .",
+        "index": 79
+    },
+    {
+        "speaker": "PM",
+        "text": "You go here ,",
+        "index": 80
+    },
+    {
+        "speaker": "PM",
+        "text": "just like using a pen .",
+        "index": 81
+    },
+    {
+        "speaker": "PM",
+        "text": "You can just draw whatever you want .",
+        "index": 82
+    },
+    {
+        "speaker": "PM",
+        "text": "It's like the eraser ,",
+        "index": 83
+    },
+    {
+        "speaker": "PM",
+        "text": "can erase whatever you want .",
+        "index": 84
+    },
+    {
+        "speaker": "PM",
+        "text": "And so it will be easy just to illustrate your views ,",
+        "index": 85
+    },
+    {
+        "speaker": "PM",
+        "text": "if you wanna change the format , you just <vocalsound> either take out jus just like the pen , and whatever you want , your current colour , your line width , just to make the line bigger .",
+        "index": 86
+    },
+    {
+        "speaker": "PM",
+        "text": "So it should be really easy .",
+        "index": 87
+    },
+    {
+        "speaker": "ME",
+        "text": "Okay .",
+        "index": 88
+    },
+    {
+        "speaker": "PM",
+        "text": "This is to take the <disfmarker>",
+        "index": 89
+    },
+    {
+        "speaker": "PM",
+        "text": "just take a new slide",
+        "index": 90
+    },
+    {
+        "speaker": "PM",
+        "text": "and back again .",
+        "index": 91
+    },
+    {
+        "speaker": "PM",
+        "text": "We're just gonna keep using this board all the time ,",
+        "index": 92
+    },
+    {
+        "speaker": "PM",
+        "text": "so I think it will be <disfmarker>",
+        "index": 93
+    },
+    {
+        "speaker": "PM",
+        "text": "it's very clear for everyone , I suppose .",
+        "index": 94
+    },
+    {
+        "speaker": "PM",
+        "text": "So",
+        "index": 95
+    },
+    {
+        "speaker": "PM",
+        "text": "I'll take this out .",
+        "index": 96
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Okay .",
+        "index": 97
+    },
+    {
+        "speaker": "PM",
+        "text": "We'll use that later . Anyway .",
+        "index": 98
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah , just just",
+        "index": 99
+    },
+    {
+        "speaker": "PM",
+        "text": "just stuff that you wanna share , just put it in the in the project folder ,",
+        "index": 100
+    },
+    {
+        "speaker": "PM",
+        "text": "like I put my presentation now .",
+        "index": 101
+    },
+    {
+        "speaker": "PM",
+        "text": "I'll put the the minutes of every meeting , I'll put them there too ,",
+        "index": 102
+    },
+    {
+        "speaker": "PM",
+        "text": "so everybody can read up if they have to leave early or whatever .",
+        "index": 103
+    },
+    {
+        "speaker": "PM",
+        "text": "So",
+        "index": 104
+    },
+    {
+        "speaker": "PM",
+        "text": "next , been here . <vocalsound>",
+        "index": 105
+    },
+    {
+        "speaker": "PM",
+        "text": "Well , <gap>",
+        "index": 106
+    },
+    {
+        "speaker": "PM",
+        "text": "gonna give the electronic white-board uh a shot .",
+        "index": 107
+    },
+    {
+        "speaker": "PM",
+        "text": "So",
+        "index": 108
+    },
+    {
+        "speaker": "PM",
+        "text": "basic idea is we have a blank sheet .",
+        "index": 109
+    },
+    {
+        "speaker": "PM",
+        "text": "Just try whatever you want ,",
+        "index": 110
+    },
+    {
+        "speaker": "PM",
+        "text": "and like it says , draw your favourite animal .",
+        "index": 111
+    },
+    {
+        "speaker": "PM",
+        "text": "I think the creative genius should go first . <vocalsound>",
+        "index": 112
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> The creative genius ?",
+        "index": 113
+    },
+    {
+        "speaker": "UI",
+        "text": "Thank you very much .",
+        "index": 114
+    },
+    {
+        "speaker": "PM",
+        "text": "So , draw us your favourite animal .",
+        "index": 115
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> Well ,",
+        "index": 116
+    },
+    {
+        "speaker": "UI",
+        "text": "I'm more into the technical aspects of drawing ,",
+        "index": 117
+    },
+    {
+        "speaker": "UI",
+        "text": "so I'm not really good at drawing animals ,",
+        "index": 118
+    },
+    {
+        "speaker": "PM",
+        "text": "Draw us a technical animal .",
+        "index": 119
+    },
+    {
+        "speaker": "UI",
+        "text": "but uh the animal which I <gap> <disfmarker> Oh .",
+        "index": 120
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah , it's still erasing .",
+        "index": 121
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> Pen .",
+        "index": 122
+    },
+    {
+        "speaker": "UI",
+        "text": "Uh format .",
+        "index": 123
+    },
+    {
+        "speaker": "UI",
+        "text": "Else my animal will be like king-size .",
+        "index": 124
+    },
+    {
+        "speaker": "UI",
+        "text": "I pretty much like <vocalsound> a dolphin ,",
+        "index": 125
+    },
+    {
+        "speaker": "UI",
+        "text": "because of its uh its freedom basically .",
+        "index": 126
+    },
+    {
+        "speaker": "UI",
+        "text": "Let's see .",
+        "index": 127
+    },
+    {
+        "speaker": "UI",
+        "text": "A head .",
+        "index": 128
+    },
+    {
+        "speaker": "UI",
+        "text": "<gap> actually worked with this .",
+        "index": 129
+    },
+    {
+        "speaker": "UI",
+        "text": "It's like uh it's a very <disfmarker> Uh high-tech .",
+        "index": 130
+    },
+    {
+        "speaker": "UI",
+        "text": "Bit low-responsive though .",
+        "index": 131
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> So that's what we don't want .",
+        "index": 132
+    },
+    {
+        "speaker": "UI",
+        "text": "Prefer pen and paper .",
+        "index": 133
+    },
+    {
+        "speaker": "PM",
+        "text": "We want a high-responsive product . So <disfmarker>",
+        "index": 134
+    },
+    {
+        "speaker": "PM",
+        "text": "It looks more like nuclear bomb .",
+        "index": 135
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> Very nice dolphin .",
+        "index": 136
+    },
+    {
+        "speaker": "UI",
+        "text": "It <vocalsound> <vocalsound> doesn't look like a nuclear bomb .",
+        "index": 137
+    },
+    {
+        "speaker": "UI",
+        "text": "This thing isn't doing what I'm <disfmarker> What I want .",
+        "index": 138
+    },
+    {
+        "speaker": "UI",
+        "text": "So <disfmarker>",
+        "index": 139
+    },
+    {
+        "speaker": "PM",
+        "text": "Let's go easy on it .",
+        "index": 140
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> Yeah , well it does look like a nuclear bomb .",
+        "index": 141
+    },
+    {
+        "speaker": "UI",
+        "text": "I'll just finish up real soon ,",
+        "index": 142
+    },
+    {
+        "speaker": "UI",
+        "text": "because I'm <disfmarker>",
+        "index": 143
+    },
+    {
+        "speaker": "UI",
+        "text": "So it doesn't really look like a dolphin ,",
+        "index": 144
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Anyway ,",
+        "index": 145
+    },
+    {
+        "speaker": "UI",
+        "text": "but then again , this is all new for me .",
+        "index": 146
+    },
+    {
+        "speaker": "PM",
+        "text": "it should <disfmarker> It <disfmarker>",
+        "index": 147
+    },
+    {
+        "speaker": "PM",
+        "text": "It's supposed to be a dolphin ,",
+        "index": 148
+    },
+    {
+        "speaker": "PM",
+        "text": "you like the freedom that it <disfmarker> that it represents .",
+        "index": 149
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh-huh .",
+        "index": 150
+    },
+    {
+        "speaker": "UI",
+        "text": "Like the ocean ,",
+        "index": 151
+    },
+    {
+        "speaker": "UI",
+        "text": "like swimming .",
+        "index": 152
+    },
+    {
+        "speaker": "UI",
+        "text": "Do that in my spare time ,",
+        "index": 153
+    },
+    {
+        "speaker": "UI",
+        "text": "so that's basically an <disfmarker>",
+        "index": 154
+    },
+    {
+        "speaker": "PM",
+        "text": "What do you like ?",
+        "index": 155
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay . Well ,",
+        "index": 156
+    },
+    {
+        "speaker": "UI",
+        "text": "Now we can forget this ever happened .",
+        "index": 157
+    },
+    {
+        "speaker": "PM",
+        "text": "our Marketing Expert . Show us an animal .",
+        "index": 158
+    },
+    {
+        "speaker": "ME",
+        "text": "Um an animal .",
+        "index": 159
+    },
+    {
+        "speaker": "ME",
+        "text": "I like the elephant . <vocalsound>",
+        "index": 160
+    },
+    {
+        "speaker": "PM",
+        "text": "<gap> Pick a <disfmarker> pick a <disfmarker>",
+        "index": 161
+    },
+    {
+        "speaker": "PM",
+        "text": "pick a clean sheet .",
+        "index": 162
+    },
+    {
+        "speaker": "PM",
+        "text": "Oh . Take a clean sheet first .",
+        "index": 163
+    },
+    {
+        "speaker": "ME",
+        "text": "What ?",
+        "index": 164
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah . Um <disfmarker>",
+        "index": 165
+    },
+    {
+        "speaker": "PM",
+        "text": "Just press next .",
+        "index": 166
+    },
+    {
+        "speaker": "PM",
+        "text": "That's it .",
+        "index": 167
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh yeah .",
+        "index": 168
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh , a blank .",
+        "index": 169
+    },
+    {
+        "speaker": "ME",
+        "text": "Okay ,",
+        "index": 170
+    },
+    {
+        "speaker": "ME",
+        "text": "next .",
+        "index": 171
+    },
+    {
+        "speaker": "ME",
+        "text": "Free ,",
+        "index": 172
+    },
+    {
+        "speaker": "ME",
+        "text": "I like the elephant .",
+        "index": 173
+    },
+    {
+        "speaker": "ME",
+        "text": "It's big ,",
+        "index": 174
+    },
+    {
+        "speaker": "ME",
+        "text": "it's strong ,",
+        "index": 175
+    },
+    {
+        "speaker": "ME",
+        "text": "so uh uh <disfmarker> Oh ,",
+        "index": 176
+    },
+    {
+        "speaker": "ME",
+        "text": "it's a little bit <disfmarker>",
+        "index": 177
+    },
+    {
+        "speaker": "UI",
+        "text": "It's not really that responsive , no . <vocalsound>",
+        "index": 178
+    },
+    {
+        "speaker": "ME",
+        "text": "You have to hold it ,",
+        "index": 179
+    },
+    {
+        "speaker": "ME",
+        "text": "right ?",
+        "index": 180
+    },
+    {
+        "speaker": "ME",
+        "text": "It's a beautiful animal .",
+        "index": 181
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh ,",
+        "index": 182
+    },
+    {
+        "speaker": "ME",
+        "text": "you have to p press it pretty hard .",
+        "index": 183
+    },
+    {
+        "speaker": "ME",
+        "text": "With a smile on it ,",
+        "index": 184
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> It's a cute elephant .",
+        "index": 185
+    },
+    {
+        "speaker": "ME",
+        "text": "it's very important .",
+        "index": 186
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 187
+    },
+    {
+        "speaker": "ME",
+        "text": "And uh not to forget its tail .",
+        "index": 188
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh .",
+        "index": 189
+    },
+    {
+        "speaker": "PM",
+        "text": "It's a nice beard .",
+        "index": 190
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah , it's okay . Yes . <vocalsound>",
+        "index": 191
+    },
+    {
+        "speaker": "UI",
+        "text": "And you was making comments on my dolphin . <vocalsound>",
+        "index": 192
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> I will beat the dolphin . <vocalsound> No .",
+        "index": 193
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay , so",
+        "index": 194
+    },
+    {
+        "speaker": "PM",
+        "text": "it's just a bee .",
+        "index": 195
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 196
+    },
+    {
+        "speaker": "PM",
+        "text": "So",
+        "index": 197
+    },
+    {
+        "speaker": "PM",
+        "text": "I suggest you make us the elephant in the market . The big and strong player in the market .",
+        "index": 198
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah . Yeah .",
+        "index": 199
+    },
+    {
+        "speaker": "PM",
+        "text": "This would be good .",
+        "index": 200
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay , excellent .",
+        "index": 201
+    },
+    {
+        "speaker": "PM",
+        "text": "On to the next one .",
+        "index": 202
+    },
+    {
+        "speaker": "ID",
+        "text": "<vocalsound> Okay .",
+        "index": 203
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh yeah .",
+        "index": 204
+    },
+    {
+        "speaker": "ID",
+        "text": "Okay ,",
+        "index": 205
+    },
+    {
+        "speaker": "ID",
+        "text": "you should press next .",
+        "index": 206
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> Yeah .",
+        "index": 207
+    },
+    {
+        "speaker": "PM",
+        "text": "Press next . Yeah ,",
+        "index": 208
+    },
+    {
+        "speaker": "PM",
+        "text": "it's up there .",
+        "index": 209
+    },
+    {
+        "speaker": "ID",
+        "text": "<vocalsound> Okay .",
+        "index": 210
+    },
+    {
+        "speaker": "PM",
+        "text": "That's it .",
+        "index": 211
+    },
+    {
+        "speaker": "ID",
+        "text": "Okay , well",
+        "index": 212
+    },
+    {
+        "speaker": "ID",
+        "text": "the animal I'd like to draw is a tiger .",
+        "index": 213
+    },
+    {
+        "speaker": "UI",
+        "text": "You picked a hard one , didn't you ? <vocalsound>",
+        "index": 214
+    },
+    {
+        "speaker": "ME",
+        "text": "Experience with the tiger .",
+        "index": 215
+    },
+    {
+        "speaker": "ID",
+        "text": "My drawing skills are really bad , so .",
+        "index": 216
+    },
+    {
+        "speaker": "ME",
+        "text": "What ? They are <disfmarker>",
+        "index": 217
+    },
+    {
+        "speaker": "ID",
+        "text": "They are really bad , my drawing skills .",
+        "index": 218
+    },
+    {
+        "speaker": "ME",
+        "text": "Okay uh-huh .",
+        "index": 219
+    },
+    {
+        "speaker": "PM",
+        "text": "Sure looks smooth .",
+        "index": 220
+    },
+    {
+        "speaker": "ME",
+        "text": "Oh .",
+        "index": 221
+    },
+    {
+        "speaker": "ID",
+        "text": "I'm not sure how the legs should go ,",
+        "index": 222
+    },
+    {
+        "speaker": "ID",
+        "text": "but <disfmarker>",
+        "index": 223
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh",
+        "index": 224
+    },
+    {
+        "speaker": "ID",
+        "text": "these are stripes .",
+        "index": 225
+    },
+    {
+        "speaker": "UI",
+        "text": "Got it . <vocalsound>",
+        "index": 226
+    },
+    {
+        "speaker": "ID",
+        "text": "I've picked this animal because it's very fast .",
+        "index": 227
+    },
+    {
+        "speaker": "ID",
+        "text": "It is uh",
+        "index": 228
+    },
+    {
+        "speaker": "ID",
+        "text": "it knows exactly what it wants .",
+        "index": 229
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh it hardly ever wastes any resources .",
+        "index": 230
+    },
+    {
+        "speaker": "PM",
+        "text": "What does it want ?",
+        "index": 231
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh well , basically uh",
+        "index": 232
+    },
+    {
+        "speaker": "ID",
+        "text": "it hunts for prey ,",
+        "index": 233
+    },
+    {
+        "speaker": "ID",
+        "text": "but it does it always in a very well-thought way .",
+        "index": 234
+    },
+    {
+        "speaker": "ID",
+        "text": "Uh it knows exactly what it wants .",
+        "index": 235
+    },
+    {
+        "speaker": "ID",
+        "text": "It never kills an animal uh just for the killing ,",
+        "index": 236
+    },
+    {
+        "speaker": "ID",
+        "text": "so it's very efficient .",
+        "index": 237
+    },
+    {
+        "speaker": "ID",
+        "text": "And it tries to do everything as fast as possible .",
+        "index": 238
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay .",
+        "index": 239
+    },
+    {
+        "speaker": "ID",
+        "text": "And it always goes for uh security , in seeking uh uh a hide spot and uh and doing everything ,",
+        "index": 240
+    },
+    {
+        "speaker": "ID",
+        "text": "security , speed and efficiency is important .",
+        "index": 241
+    },
+    {
+        "speaker": "ID",
+        "text": "And I think uh those things we can use .",
+        "index": 242
+    },
+    {
+        "speaker": "PM",
+        "text": "I agree .",
+        "index": 243
+    },
+    {
+        "speaker": "ME",
+        "text": "Okay .",
+        "index": 244
+    },
+    {
+        "speaker": "PM",
+        "text": "Yay",
+        "index": 245
+    },
+    {
+        "speaker": "PM",
+        "text": ", I'm supposed to draw the animal next .",
+        "index": 246
+    },
+    {
+        "speaker": "PM",
+        "text": "I introduce to the world the amazing ant .",
+        "index": 247
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh hard worker .",
+        "index": 248
+    },
+    {
+        "speaker": "PM",
+        "text": "Great team-workers .",
+        "index": 249
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 250
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah .",
+        "index": 251
+    },
+    {
+        "speaker": "PM",
+        "text": "Do everything to",
+        "index": 252
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh really small ,",
+        "index": 253
+    },
+    {
+        "speaker": "PM",
+        "text": "but together they're really strong .",
+        "index": 254
+    },
+    {
+        "speaker": "PM",
+        "text": "So I'm gonna give it a smiley face .",
+        "index": 255
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah , yeah .",
+        "index": 256
+    },
+    {
+        "speaker": "ID",
+        "text": "<vocalsound> Oh .",
+        "index": 257
+    },
+    {
+        "speaker": "PM",
+        "text": "Not sure where the p <gap> .",
+        "index": 258
+    },
+    {
+        "speaker": "PM",
+        "text": "Just put 'em here . Whatever . <vocalsound>",
+        "index": 259
+    },
+    {
+        "speaker": "PM",
+        "text": "Think it need shoes . So <disfmarker>",
+        "index": 260
+    },
+    {
+        "speaker": "PM",
+        "text": "I'm just too lazy to draw it all black , so <disfmarker>",
+        "index": 261
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> That's the coolest ant ever .",
+        "index": 262
+    },
+    {
+        "speaker": "UI",
+        "text": "You've done this before , haven't you ? <vocalsound>",
+        "index": 263
+    },
+    {
+        "speaker": "PM",
+        "text": "I love to draw ants . It's my hobby .",
+        "index": 264
+    },
+    {
+        "speaker": "PM",
+        "text": "Anyway <disfmarker> Nah . <vocalsound> Just <disfmarker>",
+        "index": 265
+    },
+    {
+        "speaker": "PM",
+        "text": "I think it's very representative what we drew , I guess .",
+        "index": 266
+    },
+    {
+        "speaker": "PM",
+        "text": "Like you take <disfmarker> just take your freedom and use a a trendy interface that you design for us .",
+        "index": 267
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 268
+    },
+    {
+        "speaker": "PM",
+        "text": "Just <disfmarker> Yeah .",
+        "index": 269
+    },
+    {
+        "speaker": "PM",
+        "text": "You're supposed to make i make it different from uh from what other people have , and just make it a little distinct .",
+        "index": 270
+    },
+    {
+        "speaker": "PM",
+        "text": "Anyway . <gap>",
+        "index": 271
+    },
+    {
+        "speaker": "PM",
+        "text": "another beep to stop the meeting .",
+        "index": 272
+    },
+    {
+        "speaker": "PM",
+        "text": "See .",
+        "index": 273
+    },
+    {
+        "speaker": "PM",
+        "text": "Warning . Finish meeting now .",
+        "index": 274
+    },
+    {
+        "speaker": "PM",
+        "text": "Uh put this down .",
+        "index": 275
+    },
+    {
+        "speaker": "PM",
+        "text": "Examples .",
+        "index": 276
+    },
+    {
+        "speaker": "PM",
+        "text": "Well",
+        "index": 277
+    },
+    {
+        "speaker": "PM",
+        "text": "I guess we have a little little time extra ,",
+        "index": 278
+    },
+    {
+        "speaker": "PM",
+        "text": "but <disfmarker>",
+        "index": 279
+    },
+    {
+        "speaker": "PM",
+        "text": "Just a little quick discussion to to open open our work .",
+        "index": 280
+    },
+    {
+        "speaker": "PM",
+        "text": "So what do you guys think about <disfmarker>",
+        "index": 281
+    },
+    {
+        "speaker": "PM",
+        "text": "The first idea is just very short .",
+        "index": 282
+    },
+    {
+        "speaker": "PM",
+        "text": "I'll start with you .",
+        "index": 283
+    },
+    {
+        "speaker": "PM",
+        "text": "What are y What are your first ideas for the new product ?",
+        "index": 284
+    },
+    {
+        "speaker": "UI",
+        "text": "Well ,",
+        "index": 285
+    },
+    {
+        "speaker": "UI",
+        "text": "I basically had a question .",
+        "index": 286
+    },
+    {
+        "speaker": "PM",
+        "text": "What <disfmarker>",
+        "index": 287
+    },
+    {
+        "speaker": "UI",
+        "text": "Do <vocalsound> uh <disfmarker>",
+        "index": 288
+    },
+    {
+        "speaker": "UI",
+        "text": "Are we going to introduce a multi remote control ?",
+        "index": 289
+    },
+    {
+        "speaker": "UI",
+        "text": "Is it just the T_V_",
+        "index": 290
+    },
+    {
+        "speaker": "UI",
+        "text": "or do we want to in",
+        "index": 291
+    },
+    {
+        "speaker": "ME",
+        "text": "Uh <vocalsound> <disfmarker>",
+        "index": 292
+    },
+    {
+        "speaker": "PM",
+        "text": "The project I got was just for a T_V_ remote control .",
+        "index": 293
+    },
+    {
+        "speaker": "UI",
+        "text": "Just for T_V_ remote control .",
+        "index": 294
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 295
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah , I guess so .",
+        "index": 296
+    },
+    {
+        "speaker": "UI",
+        "text": "Okay .",
+        "index": 297
+    },
+    {
+        "speaker": "UI",
+        "text": "Well ,",
+        "index": 298
+    },
+    {
+        "speaker": "UI",
+        "text": "I was thinking about design remote control , with our uh motto and all .",
+        "index": 299
+    },
+    {
+        "speaker": "ME",
+        "text": "But <disfmarker>",
+        "index": 300
+    },
+    {
+        "speaker": "UI",
+        "text": "Uh thing to keep in mind is that we need to stick to what people are familiar with .",
+        "index": 301
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 302
+    },
+    {
+        "speaker": "UI",
+        "text": "No rational changes or whatever , 'cause it <disfmarker> revolutionary changes ,",
+        "index": 303
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay ,",
+        "index": 304
+    },
+    {
+        "speaker": "PM",
+        "text": "so very intuitive design , I guess .",
+        "index": 305
+    },
+    {
+        "speaker": "UI",
+        "text": "yes .",
+        "index": 306
+    },
+    {
+        "speaker": "UI",
+        "text": "<vocalsound> Uh we might have to consider other design aspects of our product .",
+        "index": 307
+    },
+    {
+        "speaker": "UI",
+        "text": "So that was something I wanted to add ,",
+        "index": 308
+    },
+    {
+        "speaker": "UI",
+        "text": "and perhaps some usability aspect .",
+        "index": 309
+    },
+    {
+        "speaker": "UI",
+        "text": "T_V_ is becoming central in most homes .",
+        "index": 310
+    },
+    {
+        "speaker": "UI",
+        "text": "Do we want people who are disabled in any way to uh , yeah , to be able to use it as well ?",
+        "index": 311
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah , we want <disfmarker>",
+        "index": 312
+    },
+    {
+        "speaker": "PM",
+        "text": "I suppose we want almost everyone to be using it .",
+        "index": 313
+    },
+    {
+        "speaker": "PM",
+        "text": "So <vocalsound> I think <disfmarker> I mean , really disabled people , yeah , <vocalsound> might be a problem ,",
+        "index": 314
+    },
+    {
+        "speaker": "PM",
+        "text": "but I think it's a little <gap> take it into consideration .",
+        "index": 315
+    },
+    {
+        "speaker": "PM",
+        "text": "Um yeah .",
+        "index": 316
+    },
+    {
+        "speaker": "PM",
+        "text": "I think we really need to cut the meeting short .",
+        "index": 317
+    },
+    {
+        "speaker": "PM",
+        "text": "You have anything you wanna share quickly ?",
+        "index": 318
+    },
+    {
+        "speaker": "ID",
+        "text": "Only one thing uh that has to be added according to me",
+        "index": 319
+    },
+    {
+        "speaker": "ID",
+        "text": "is uh the the material it is made of , it should be something light .",
+        "index": 320
+    },
+    {
+        "speaker": "ID",
+        "text": "That's <disfmarker>",
+        "index": 321
+    },
+    {
+        "speaker": "UI",
+        "text": "Yeah .",
+        "index": 322
+    },
+    {
+        "speaker": "ID",
+        "text": "it speaks for itself ,",
+        "index": 323
+    },
+    {
+        "speaker": "ID",
+        "text": "but some uh <disfmarker>",
+        "index": 324
+    },
+    {
+        "speaker": "PM",
+        "text": "It should be light , okay .",
+        "index": 325
+    },
+    {
+        "speaker": "ID",
+        "text": "Yeah .",
+        "index": 326
+    },
+    {
+        "speaker": "ME",
+        "text": "Yeah .",
+        "index": 327
+    },
+    {
+        "speaker": "PM",
+        "text": "Um , let's see ,",
+        "index": 328
+    },
+    {
+        "speaker": "PM",
+        "text": "where did I <disfmarker>",
+        "index": 329
+    },
+    {
+        "speaker": "PM",
+        "text": "Let's skip that .",
+        "index": 330
+    },
+    {
+        "speaker": "PM",
+        "text": "Oh , this is it .",
+        "index": 331
+    },
+    {
+        "speaker": "PM",
+        "text": "Sorry ,",
+        "index": 332
+    },
+    {
+        "speaker": "PM",
+        "text": "I skipped this sheet .",
+        "index": 333
+    },
+    {
+        "speaker": "ME",
+        "text": "Selling price .",
+        "index": 334
+    },
+    {
+        "speaker": "PM",
+        "text": "What do we <disfmarker> This <disfmarker> Quick <gap> <disfmarker> What we're going to <disfmarker>",
+        "index": 335
+    },
+    {
+        "speaker": "PM",
+        "text": "Selling price , twenty five Euros .",
+        "index": 336
+    },
+    {
+        "speaker": "PM",
+        "text": "That's for you .",
+        "index": 337
+    },
+    {
+        "speaker": "PM",
+        "text": "The production price , twelve and a half Euros , approximately .",
+        "index": 338
+    },
+    {
+        "speaker": "ID",
+        "text": "<vocalsound> Okay .",
+        "index": 339
+    },
+    {
+        "speaker": "PM",
+        "text": "Just go go for that .",
+        "index": 340
+    },
+    {
+        "speaker": "PM",
+        "text": "We'll reach the uh reach that profit .",
+        "index": 341
+    },
+    {
+        "speaker": "ID",
+        "text": "Okay .",
+        "index": 342
+    },
+    {
+        "speaker": "UI",
+        "text": "Okay , well",
+        "index": 343
+    },
+    {
+        "speaker": "ME",
+        "text": "<gap> international .",
+        "index": 344
+    },
+    {
+        "speaker": "UI",
+        "text": "that's not that much to work with . <vocalsound>",
+        "index": 345
+    },
+    {
+        "speaker": "PM",
+        "text": "No , it's not much to work on .",
+        "index": 346
+    },
+    {
+        "speaker": "PM",
+        "text": "I'm sorry ,",
+        "index": 347
+    },
+    {
+        "speaker": "PM",
+        "text": "I skipped it .",
+        "index": 348
+    },
+    {
+        "speaker": "PM",
+        "text": "<vocalsound> Anyways , that's <disfmarker> Yeah ,",
+        "index": 349
+    },
+    {
+        "speaker": "PM",
+        "text": "this is it .",
+        "index": 350
+    },
+    {
+        "speaker": "PM",
+        "text": "Do you have anything you you came up with yet ? About uh marketing transfer , whatever ?",
+        "index": 351
+    },
+    {
+        "speaker": "ME",
+        "text": "Um about what ? Marketing ?",
+        "index": 352
+    },
+    {
+        "speaker": "PM",
+        "text": "Marketing <gap>",
+        "index": 353
+    },
+    {
+        "speaker": "PM",
+        "text": "I'm not sure what you what you came up with yet . You have anything to share ?",
+        "index": 354
+    },
+    {
+        "speaker": "PM",
+        "text": "Or else we'll cut the meeting just cut the meeting short",
+        "index": 355
+    },
+    {
+        "speaker": "ME",
+        "text": "<vocalsound> Um no , not really yet ,",
+        "index": 356
+    },
+    {
+        "speaker": "PM",
+        "text": "since we're supposed to stop .",
+        "index": 357
+    },
+    {
+        "speaker": "ME",
+        "text": "but I've some ideas",
+        "index": 358
+    },
+    {
+        "speaker": "PM",
+        "text": "Okay .",
+        "index": 359
+    },
+    {
+        "speaker": "ME",
+        "text": "and I will uh say it uh <disfmarker>",
+        "index": 360
+    },
+    {
+        "speaker": "PM",
+        "text": "Anyways ,",
+        "index": 361
+    },
+    {
+        "speaker": "PM",
+        "text": "the the personal coach will give you the your p your personal assignments and everything .",
+        "index": 362
+    },
+    {
+        "speaker": "PM",
+        "text": "So we'll just meet back in here thirty minutes .",
+        "index": 363
+    },
+    {
+        "speaker": "ID",
+        "text": "Okay .",
+        "index": 364
+    },
+    {
+        "speaker": "ME",
+        "text": "Okay .",
+        "index": 365
+    },
+    {
+        "speaker": "PM",
+        "text": "I'm sure we have that .",
+        "index": 366
+    },
+    {
+        "speaker": "ID",
+        "text": "Good luck everyone .",
+        "index": 367
+    },
+    {
+        "speaker": "PM",
+        "text": "Yeah ,",
+        "index": 368
+    },
+    {
+        "speaker": "PM",
+        "text": "thanks for attending .",
+        "index": 369
+    },
+    {
+        "speaker": "UI",
+        "text": "Mm , good luck .",
+        "index": 370
+    },
+    {
+        "speaker": "PM",
+        "text": "I'll see you back here in thirty minutes .",
+        "index": 371
+    },
+    {
+        "speaker": "ME",
+        "text": "Okay . Yes .",
+        "index": 372
+    }
+]
